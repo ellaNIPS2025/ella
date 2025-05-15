@@ -1,0 +1,158 @@
+[
+    {
+        "type": "sleep",
+        "activity": "Sleep",
+        "place": "Leonard Park's room at Courtyard New York Manhattan/Chelsea",
+        "building": "Courtyard Marriot",
+        "start_time": "00:00:00",
+        "end_time": "08:00:00"
+    },
+    {
+        "type": "meal",
+        "activity": "Breakfast",
+        "place": "Woorijip",
+        "building": "12 West 32nd Street",
+        "start_time": "08:00:00",
+        "end_time": "08:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to work at Woorijip",
+        "place": null,
+        "building": null,
+        "start_time": "08:30:00",
+        "end_time": "09:00:00"
+    },
+    {
+        "type": "main",
+        "activity": "Work on creating a new menu",
+        "place": "Woorijip",
+        "building": "12 West 32nd Street",
+        "start_time": "09:00:00",
+        "end_time": "12:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Hangawi",
+        "place": null,
+        "building": null,
+        "start_time": "12:00:00",
+        "end_time": "12:10:00",
+        "start_place": "Woorijip",
+        "end_place": "Hangawi"
+    },
+    {
+        "type": "meal",
+        "activity": "Lunch",
+        "place": "Hangawi",
+        "building": "12 East 32nd Street",
+        "start_time": "12:10:00",
+        "end_time": "12:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Hilton Garden Inn New York/Manhattan-Chelsea",
+        "place": null,
+        "building": null,
+        "start_time": "12:30:00",
+        "end_time": "13:00:00",
+        "start_place": "Hangawi",
+        "end_place": "My Cooking Party"
+    },
+    {
+        "type": "main",
+        "activity": "Experiment with new recipes",
+        "place": "My Cooking Party",
+        "building": "130 West 29th Street 6th Floor",
+        "start_time": "13:00:00",
+        "end_time": "14:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Hilton Garden Inn New York/Manhattan-Chelsea",
+        "place": null,
+        "building": null,
+        "start_time": "14:30:00",
+        "end_time": "15:00:00",
+        "start_place": "My Cooking Party",
+        "end_place": "Hilton Garden Inn New York/Manhattan-Chelsea"
+    },
+    {
+        "type": "main",
+        "activity": "Discuss hospitality trends",
+        "place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+        "building": "Hilton Garden Inn",
+        "start_time": "15:00:00",
+        "end_time": "16:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Woorijip",
+        "place": null,
+        "building": null,
+        "start_time": "16:00:00",
+        "end_time": "16:30:00",
+        "start_place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+        "end_place": "Woorijip"
+    },
+    {
+        "type": "main",
+        "activity": "Continue working on new menu",
+        "place": "Woorijip",
+        "building": "12 West 32nd Street",
+        "start_time": "16:30:00",
+        "end_time": "18:00:00"
+    },
+    {
+        "type": "meal",
+        "activity": "Dinner",
+        "place": "Woorijip",
+        "building": "12 West 32nd Street",
+        "start_time": "18:00:00",
+        "end_time": "18:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Beverages and Snacks Store",
+        "place": null,
+        "building": null,
+        "start_time": "18:30:00",
+        "end_time": "19:00:00",
+        "start_place": "Woorijip",
+        "end_place": "Beverages and Snacks Store"
+    },
+    {
+        "type": "main",
+        "activity": "Buy ingredients and snacks",
+        "place": "Beverages and Snacks Store",
+        "building": "Eventi",
+        "start_time": "19:00:00",
+        "end_time": "20:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute back to Leonard Park's room",
+        "place": null,
+        "building": null,
+        "start_time": "20:00:00",
+        "end_time": "20:30:00",
+        "start_place": "Beverages and Snacks Store",
+        "end_place": "Leonard Park's room at Courtyard New York Manhattan/Chelsea"
+    },
+    {
+        "type": "main",
+        "activity": "Relax and plan next day's menu",
+        "place": "Leonard Park's room at Courtyard New York Manhattan/Chelsea",
+        "building": "Courtyard Marriot",
+        "start_time": "20:30:00",
+        "end_time": "23:30:00"
+    },
+    {
+        "type": "sleep",
+        "activity": "Sleep",
+        "place": "Leonard Park's room at Courtyard New York Manhattan/Chelsea",
+        "building": "Courtyard Marriot",
+        "start_time": "23:30:00",
+        "end_time": "23:59:59"
+    }
+]

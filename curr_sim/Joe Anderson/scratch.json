@@ -1,0 +1,239 @@
+{
+    "name": "Joe Anderson",
+    "first_name": "Joe",
+    "last_name": "Anderson",
+    "age": 31,
+    "innate": "security, conformity, tradition",
+    "learned": "I am a real estate agent at Justin Management. I enjoy playing golf and spending time with my family.",
+    "currently": "I am focused on closing a major property deal in Manhattan.",
+    "lifestyle": "I go to bed around midnight, wake up around 08:00, eat dinner around 18:00",
+    "groups": [
+        {
+            "name": "Celebrity Circle",
+            "description": "A group of famous personalities networking and discussing their latest projects.",
+            "place": "Empire State Building",
+            "members": [
+                "Lionel Messi",
+                "Elon Musk",
+                "Emma Watson",
+                "Taylor Swift",
+                "Joe Anderson"
+            ],
+            "daily_activity": "networking and discussing projects from 17:00 to 18:00"
+        }
+    ],
+    "daily_requirement": "",
+    "curr_time": "October 01, 2024, 09:39:48",
+    "start_time": "October 1, 2024, 09:00:00",
+    "living_place": "Joe Anderson's room at Courtyard New York Manhattan/Chelsea",
+    "react_freq": 60,
+    "importance_trigger_max": 250,
+    "importance_trigger_curr": 250,
+    "importance_ele_n": 0,
+    "daily_plan": [],
+    "hourly_schedule": [
+        {
+            "type": "sleep",
+            "activity": "Sleep",
+            "place": "Joe Anderson's room at Courtyard New York Manhattan/Chelsea",
+            "building": "Courtyard Marriot",
+            "start_time": "00:00:00",
+            "end_time": "08:00:00"
+        },
+        {
+            "type": "meal",
+            "activity": "Breakfast",
+            "place": "Woorijip",
+            "building": "12 West 32nd Street",
+            "start_time": "08:00:00",
+            "end_time": "08:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Justin Management",
+            "place": null,
+            "building": null,
+            "start_time": "08:30:00",
+            "end_time": "09:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Justin Management",
+            "place": null,
+            "building": null,
+            "start_time": "09:00:01",
+            "end_time": "09:15:01",
+            "start_place": "Joe Anderson's room at Courtyard New York Manhattan/Chelsea",
+            "end_place": "Justin Management"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Justin Management",
+            "place": null,
+            "building": null,
+            "start_time": "09:15:01",
+            "end_time": "09:30:01",
+            "start_place": null,
+            "end_place": "Justin Management"
+        },
+        {
+            "type": "main",
+            "activity": "Work on closing the major property deal",
+            "place": "Justin Management",
+            "building": "1235 Broadway",
+            "start_time": "09:30:01",
+            "end_time": "12:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Tous Les Jours",
+            "place": null,
+            "building": null,
+            "start_time": "12:00:00",
+            "end_time": "12:10:00",
+            "start_place": "Justin Management",
+            "end_place": "Tous Les Jours"
+        },
+        {
+            "type": "meal",
+            "activity": "Lunch",
+            "place": "Tous Les Jours",
+            "building": "31 West 32nd Street",
+            "start_time": "12:10:00",
+            "end_time": "12:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute back to Justin Management",
+            "place": null,
+            "building": null,
+            "start_time": "12:30:00",
+            "end_time": "13:00:00",
+            "start_place": "Tous Les Jours",
+            "end_place": "Justin Management"
+        },
+        {
+            "type": "main",
+            "activity": "Continue working on the property deal",
+            "place": "Justin Management",
+            "building": "1235 Broadway",
+            "start_time": "13:00:00",
+            "end_time": "16:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Empire State Building for Celebrity Circle",
+            "place": null,
+            "building": null,
+            "start_time": "16:00:00",
+            "end_time": "17:00:00",
+            "start_place": "Justin Management",
+            "end_place": "Empire State Building"
+        },
+        {
+            "type": "main",
+            "activity": "Networking and discussing projects with Celebrity Circle",
+            "place": "Empire State Building",
+            "building": "Empire State Building",
+            "start_time": "17:00:00",
+            "end_time": "18:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Baskin-Robbins",
+            "place": null,
+            "building": null,
+            "start_time": "18:00:00",
+            "end_time": "18:10:00",
+            "start_place": "Empire State Building",
+            "end_place": "Baskin-Robbins"
+        },
+        {
+            "type": "meal",
+            "activity": "Dinner",
+            "place": "Baskin-Robbins",
+            "building": "302 5th Avenue",
+            "start_time": "18:10:00",
+            "end_time": "18:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Creative Art Works",
+            "place": null,
+            "building": null,
+            "start_time": "18:30:00",
+            "end_time": "19:00:00",
+            "start_place": "Baskin-Robbins",
+            "end_place": "Creative Art Works"
+        },
+        {
+            "type": "main",
+            "activity": "Relax and enjoy entertainment",
+            "place": "Creative Art Works",
+            "building": "Manhattan Mall",
+            "start_time": "19:00:00",
+            "end_time": "21:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute back to Joe Anderson's room",
+            "place": null,
+            "building": null,
+            "start_time": "21:00:00",
+            "end_time": "21:30:00",
+            "start_place": "Creative Art Works",
+            "end_place": "Joe Anderson's room at Courtyard New York Manhattan/Chelsea"
+        },
+        {
+            "type": "main",
+            "activity": "Spend time with family",
+            "place": "Joe Anderson's room at Courtyard New York Manhattan/Chelsea",
+            "building": "Courtyard Marriot",
+            "start_time": "21:30:00",
+            "end_time": "23:00:00"
+        },
+        {
+            "type": "main",
+            "activity": "Prepare for bed",
+            "place": "Joe Anderson's room at Courtyard New York Manhattan/Chelsea",
+            "building": "Courtyard Marriot",
+            "start_time": "23:00:00",
+            "end_time": "23:59:59"
+        }
+    ],
+    "held_objects": [
+        null,
+        null
+    ],
+    "act_address": null,
+    "act_start_time": null,
+    "act_duration": null,
+    "act_description": null,
+    "act_event": "",
+    "chat": null,
+    "chatting_with_buffer": {},
+    "chatting_end_time": null,
+    "working_place": "Justin Management",
+    "commute_plan": [
+        {
+            "goal_place": "West 33rd Street Bus Stop",
+            "transit_type": "bus"
+        },
+        {
+            "goal_place": "West 33rd Street Bus Stop",
+            "transit_type": "walk"
+        },
+        {
+            "goal_place": "West 32nd Street Bus Stop",
+            "transit_type": "bus"
+        },
+        {
+            "goal_place": "Justin Management",
+            "transit_type": "walk"
+        }
+    ],
+    "commute_plan_idx": 4,
+    "chatting_buffer": [],
+    "current_vehicle": null,
+    "current_place": "Justin Management"
+}

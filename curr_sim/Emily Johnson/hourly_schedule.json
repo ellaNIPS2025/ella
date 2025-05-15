@@ -1,0 +1,104 @@
+[
+    {
+        "type": "sleep",
+        "activity": "Sleep",
+        "place": "Emily Johnson's room at Living Quest Real Estate",
+        "building": "315 5th Avenue",
+        "start_time": "00:00:00",
+        "end_time": "08:00:00"
+    },
+    {
+        "type": "meal",
+        "activity": "Breakfast",
+        "place": "Emily Johnson's room at Living Quest Real Estate",
+        "building": "315 5th Avenue",
+        "start_time": "08:00:00",
+        "end_time": "08:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Satellite Academy High School",
+        "place": null,
+        "building": null,
+        "start_time": "08:30:00",
+        "end_time": "09:00:00"
+    },
+    {
+        "type": "main",
+        "activity": "Attend classes",
+        "place": "Satellite Academy High School",
+        "building": "120 West 30th Street",
+        "start_time": "09:00:00",
+        "end_time": "15:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to United Hospital Fund-Ny Library",
+        "place": null,
+        "building": null,
+        "start_time": "15:00:00",
+        "end_time": "15:30:00",
+        "start_place": "Satellite Academy High School",
+        "end_place": "United Hospital Fund-Ny Library"
+    },
+    {
+        "type": "main",
+        "activity": "Collaborate on art projects with Creative Minds",
+        "place": "United Hospital Fund-Ny Library",
+        "building": "Empire State Building",
+        "start_time": "15:30:00",
+        "end_time": "17:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Woorijip for dinner",
+        "place": null,
+        "building": null,
+        "start_time": "17:00:00",
+        "end_time": "17:30:00",
+        "start_place": "United Hospital Fund-Ny Library",
+        "end_place": "Woorijip"
+    },
+    {
+        "type": "meal",
+        "activity": "Dinner",
+        "place": "Woorijip",
+        "building": "12 West 32nd Street",
+        "start_time": "17:30:00",
+        "end_time": "18:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute back to Emily Johnson's room at Living Quest Real Estate",
+        "place": null,
+        "building": null,
+        "start_time": "18:30:00",
+        "end_time": "19:00:00",
+        "start_place": "Woorijip",
+        "end_place": "Emily Johnson's room at Living Quest Real Estate"
+    },
+    {
+        "type": "main",
+        "activity": "Work on art for the school competition",
+        "place": "Emily Johnson's room at Living Quest Real Estate",
+        "building": "315 5th Avenue",
+        "start_time": "19:00:00",
+        "end_time": "23:00:00"
+    },
+    {
+        "type": "meal",
+        "activity": "Snack",
+        "place": "Emily Johnson's room at Living Quest Real Estate",
+        "building": "315 5th Avenue",
+        "start_time": "23:00:00",
+        "end_time": "23:30:00"
+    },
+    {
+        "type": "sleep",
+        "activity": "Sleep",
+        "place": "Emily Johnson's room at Living Quest Real Estate",
+        "building": "315 5th Avenue",
+        "start_time": "23:30:00",
+        "end_time": "23:59:59"
+    }
+]

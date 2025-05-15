@@ -1,0 +1,201 @@
+{
+    "name": "Taylor Swift",
+    "first_name": "Taylor",
+    "last_name": "Swift",
+    "age": 34,
+    "innate": "achievement, stimulation, self-direction",
+    "learned": "I am a singer-songwriter known for my narrative songwriting and diverse musical styles. I have won numerous awards and have a large fan base worldwide.",
+    "currently": "I am preparing for a concert in New York City.",
+    "lifestyle": "I go to bed around midnight, wake up around 08:00, eat dinner around 18:00",
+    "groups": [
+        {
+            "name": "Celebrity Circle",
+            "description": "A group of famous personalities networking and discussing their latest projects.",
+            "place": "Empire State Building",
+            "members": [
+                "Lionel Messi",
+                "Elon Musk",
+                "Emma Watson",
+                "Taylor Swift",
+                "Joe Anderson"
+            ],
+            "daily_activity": "networking and discussing projects from 17:00 to 18:00"
+        }
+    ],
+    "daily_requirement": "",
+    "curr_time": "October 01, 2024, 09:39:44",
+    "start_time": "October 1, 2024, 09:00:00",
+    "living_place": "Taylor Swift's room at Hyatt Herald Square New York",
+    "react_freq": 60,
+    "importance_trigger_max": 250,
+    "importance_trigger_curr": 250,
+    "importance_ele_n": 0,
+    "daily_plan": [],
+    "hourly_schedule": [
+        {
+            "type": "sleep",
+            "activity": "Sleep",
+            "place": "Taylor Swift's room at Hyatt Herald Square New York",
+            "building": "Hyatt Herald Square New York",
+            "start_time": "00:00:00",
+            "end_time": "08:00:00"
+        },
+        {
+            "type": "meal",
+            "activity": "Breakfast",
+            "place": "Paris Baguette",
+            "building": "nyma",
+            "start_time": "08:00:00",
+            "end_time": "09:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to rehearsal",
+            "place": null,
+            "building": null,
+            "start_time": "09:00:00",
+            "end_time": "09:30:00",
+            "start_place": "Paris Baguette",
+            "end_place": "United Hospital Fund-Ny Library"
+        },
+        {
+            "type": "main",
+            "activity": "Concert rehearsal",
+            "place": "United Hospital Fund-Ny Library",
+            "building": "Empire State Building",
+            "start_time": "09:30:00",
+            "end_time": "12:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to lunch",
+            "place": null,
+            "building": null,
+            "start_time": "12:30:00",
+            "end_time": "13:00:00",
+            "start_place": "United Hospital Fund-Ny Library",
+            "end_place": "Woorijip"
+        },
+        {
+            "type": "meal",
+            "activity": "Lunch",
+            "place": "Woorijip",
+            "building": "12 West 32nd Street",
+            "start_time": "13:00:00",
+            "end_time": "14:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to hotel",
+            "place": null,
+            "building": null,
+            "start_time": "14:00:00",
+            "end_time": "14:30:00",
+            "start_place": "Woorijip",
+            "end_place": "Taylor Swift's room at Hyatt Herald Square New York"
+        },
+        {
+            "type": "main",
+            "activity": "Relax and prepare for networking",
+            "place": "Taylor Swift's room at Hyatt Herald Square New York",
+            "building": "Hyatt Herald Square New York",
+            "start_time": "14:30:00",
+            "end_time": "16:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Empire State Building",
+            "place": null,
+            "building": null,
+            "start_time": "16:30:00",
+            "end_time": "17:00:00",
+            "start_place": "Taylor Swift's room at Hyatt Herald Square New York",
+            "end_place": "Empire State Building"
+        },
+        {
+            "type": "main",
+            "activity": "Celebrity Circle networking",
+            "place": "Empire State Building",
+            "building": "Empire State Building",
+            "start_time": "17:00:00",
+            "end_time": "18:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to dinner",
+            "place": null,
+            "building": null,
+            "start_time": "18:00:00",
+            "end_time": "18:30:00",
+            "start_place": "Empire State Building",
+            "end_place": "Ayza Wine & Chocolate Bar"
+        },
+        {
+            "type": "meal",
+            "activity": "Dinner",
+            "place": "Ayza Wine & Chocolate Bar",
+            "building": "Life Hotel",
+            "start_time": "18:30:00",
+            "end_time": "19:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to hotel",
+            "place": null,
+            "building": null,
+            "start_time": "19:30:00",
+            "end_time": "20:00:00",
+            "start_place": "Ayza Wine & Chocolate Bar",
+            "end_place": "Taylor Swift's room at Hyatt Herald Square New York"
+        },
+        {
+            "type": "main",
+            "activity": "Relax and unwind",
+            "place": "Taylor Swift's room at Hyatt Herald Square New York",
+            "building": "Hyatt Herald Square New York",
+            "start_time": "20:00:00",
+            "end_time": "23:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Beverages and Snacks Store",
+            "place": null,
+            "building": null,
+            "start_time": "23:00:00",
+            "end_time": "23:30:00",
+            "start_place": "Taylor Swift's room at Hyatt Herald Square New York",
+            "end_place": "Beverages and Snacks Store"
+        },
+        {
+            "type": "main",
+            "activity": "Purchase snacks and beverages",
+            "place": "Beverages and Snacks Store",
+            "building": "Eventi",
+            "start_time": "23:30:00",
+            "end_time": "23:59:59"
+        }
+    ],
+    "held_objects": [
+        null,
+        null
+    ],
+    "act_address": null,
+    "act_start_time": null,
+    "act_duration": null,
+    "act_description": null,
+    "act_event": "",
+    "chat": null,
+    "chatting_with_buffer": {},
+    "chatting_end_time": null,
+    "working_place": null,
+    "commute_plan": [
+        {
+            "goal_place": "United Hospital Fund-Ny Library",
+            "transit_type": "walk"
+        }
+    ],
+    "commute_plan_idx": 1,
+    "chatting_buffer": [],
+    "current_vehicle": null,
+    "current_place": "United Hospital Fund-Ny Library"
+}

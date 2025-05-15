@@ -1,0 +1,124 @@
+[
+    {
+        "type": "sleep",
+        "activity": "Sleep",
+        "place": "Louise Roberts's room at E\u014cS NoMad Apartments",
+        "building": "EOS",
+        "start_time": "00:00:00",
+        "end_time": "08:00:00"
+    },
+    {
+        "type": "meal",
+        "activity": "Breakfast",
+        "place": "Woorijip",
+        "building": "12 West 32nd Street",
+        "start_time": "08:30:00",
+        "end_time": "09:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to United Hospital Fund-Ny Library",
+        "place": null,
+        "building": null,
+        "start_time": "09:00:00",
+        "end_time": "09:30:00",
+        "start_place": "Woorijip",
+        "end_place": "United Hospital Fund-Ny Library"
+    },
+    {
+        "type": "main",
+        "activity": "Organize community reading event",
+        "place": "United Hospital Fund-Ny Library",
+        "building": "Empire State Building",
+        "start_time": "09:30:00",
+        "end_time": "12:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to My Cooking Party",
+        "place": null,
+        "building": null,
+        "start_time": "12:30:00",
+        "end_time": "12:40:00",
+        "start_place": "United Hospital Fund-Ny Library",
+        "end_place": "My Cooking Party"
+    },
+    {
+        "type": "meal",
+        "activity": "Lunch",
+        "place": "My Cooking Party",
+        "building": "130 West 29th Street 6th Floor",
+        "start_time": "12:40:00",
+        "end_time": "13:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute back to United Hospital Fund-Ny Library",
+        "place": null,
+        "building": null,
+        "start_time": "13:30:00",
+        "end_time": "14:00:00",
+        "start_place": "My Cooking Party",
+        "end_place": "United Hospital Fund-Ny Library"
+    },
+    {
+        "type": "main",
+        "activity": "Continue organizing community reading event",
+        "place": "United Hospital Fund-Ny Library",
+        "building": "Empire State Building",
+        "start_time": "14:00:00",
+        "end_time": "16:00:00"
+    },
+    {
+        "type": "main",
+        "activity": "Collaborate on art projects with Creative Minds",
+        "place": "United Hospital Fund-Ny Library",
+        "building": "Empire State Building",
+        "start_time": "16:00:00",
+        "end_time": "17:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Woorijip for dinner",
+        "place": null,
+        "building": null,
+        "start_time": "17:00:00",
+        "end_time": "17:30:00",
+        "start_place": "United Hospital Fund-Ny Library",
+        "end_place": "Woorijip"
+    },
+    {
+        "type": "meal",
+        "activity": "Dinner",
+        "place": "Woorijip",
+        "building": "12 West 32nd Street",
+        "start_time": "17:30:00",
+        "end_time": "18:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute back to Louise Roberts's room",
+        "place": null,
+        "building": null,
+        "start_time": "18:00:00",
+        "end_time": "18:30:00",
+        "start_place": "Woorijip",
+        "end_place": "Louise Roberts's room at E\u014cS NoMad Apartments"
+    },
+    {
+        "type": "main",
+        "activity": "Relax and read",
+        "place": "Louise Roberts's room at E\u014cS NoMad Apartments",
+        "building": "EOS",
+        "start_time": "18:30:00",
+        "end_time": "23:30:00"
+    },
+    {
+        "type": "meal",
+        "activity": "Light snack",
+        "place": "Louise Roberts's room at E\u014cS NoMad Apartments",
+        "building": "EOS",
+        "start_time": "23:30:00",
+        "end_time": "23:59:59"
+    }
+]

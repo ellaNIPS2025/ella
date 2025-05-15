@@ -1,0 +1,312 @@
+{
+    "name": "Andrew Ng",
+    "first_name": "Andrew",
+    "last_name": "Ng",
+    "age": 48,
+    "innate": "self-direction, universalism, achievement",
+    "learned": "I am a computer scientist and entrepreneur, known for my work in artificial intelligence and online education. I co-founded Google Brain and Coursera.",
+    "currently": "I am exploring opportunities to collaborate with AI startups in New York City.",
+    "lifestyle": "I go to bed around midnight, wake up around 08:00, eat dinner around 18:00",
+    "groups": [
+        {
+            "name": "Tech Innovators",
+            "description": "A group of tech enthusiasts and professionals discussing the latest in technology and innovation.",
+            "place": "Beverages and Snacks Store",
+            "members": [
+                "Andrew Ng",
+                "James Thompson",
+                "Roth Miller"
+            ],
+            "daily_activity": "brainstorming tech ideas from 14:00 to 15:00"
+        }
+    ],
+    "daily_requirement": "",
+    "curr_time": "October 01, 2024, 09:39:39",
+    "start_time": "October 1, 2024, 09:00:00",
+    "living_place": "Andrew Ng's room at Hilton Garden Inn New York/Manhattan-Chelsea",
+    "react_freq": 60,
+    "importance_trigger_max": 250,
+    "importance_trigger_curr": 250,
+    "importance_ele_n": 0,
+    "daily_plan": [],
+    "hourly_schedule": [
+        {
+            "type": "sleep",
+            "activity": "Sleep",
+            "place": "Andrew Ng's room at Hilton Garden Inn New York/Manhattan-Chelsea",
+            "building": "Hilton Garden Inn",
+            "start_time": "00:00:00",
+            "end_time": "08:00:00"
+        },
+        {
+            "type": "meal",
+            "activity": "Breakfast",
+            "place": "Woorijip",
+            "building": "12 West 32nd Street",
+            "start_time": "08:00:00",
+            "end_time": "08:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to United Hospital Fund-Ny Library",
+            "place": null,
+            "building": null,
+            "start_time": "08:30:00",
+            "end_time": "09:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to United Hospital Fund-Ny Library",
+            "place": null,
+            "building": null,
+            "start_time": "09:00:01",
+            "end_time": "09:15:01",
+            "start_place": "Andrew Ng's room at Hilton Garden Inn New York/Manhattan-Chelsea",
+            "end_place": "United Hospital Fund-Ny Library"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to United Hospital Fund-Ny Library",
+            "place": null,
+            "building": null,
+            "start_time": "09:15:01",
+            "end_time": "09:30:01",
+            "start_place": null,
+            "end_place": "United Hospital Fund-Ny Library"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to United Hospital Fund-Ny Library",
+            "place": null,
+            "building": null,
+            "start_time": "09:30:01",
+            "end_time": "09:45:01",
+            "start_place": null,
+            "end_place": "United Hospital Fund-Ny Library"
+        },
+        {
+            "type": "main",
+            "activity": "Explore AI collaboration opportunities",
+            "place": "United Hospital Fund-Ny Library",
+            "building": "Empire State Building",
+            "start_time": "09:45:01",
+            "end_time": "12:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to My Cooking Party",
+            "place": null,
+            "building": null,
+            "start_time": "12:00:00",
+            "end_time": "12:10:00",
+            "start_place": "United Hospital Fund-Ny Library",
+            "end_place": "My Cooking Party"
+        },
+        {
+            "type": "meal",
+            "activity": "Lunch",
+            "place": "My Cooking Party",
+            "building": "130 West 29th Street 6th Floor",
+            "start_time": "12:10:00",
+            "end_time": "12:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Beverages and Snacks Store",
+            "place": null,
+            "building": null,
+            "start_time": "12:30:00",
+            "end_time": "13:00:00",
+            "start_place": "My Cooking Party",
+            "end_place": "Beverages and Snacks Store"
+        },
+        {
+            "type": "main",
+            "activity": "Brainstorming tech ideas with Tech Innovators",
+            "place": "Beverages and Snacks Store",
+            "building": "Eventi",
+            "start_time": "13:00:00",
+            "end_time": "15:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Empire State Building",
+            "place": null,
+            "building": null,
+            "start_time": "15:00:00",
+            "end_time": "15:30:00",
+            "start_place": "Beverages and Snacks Store",
+            "end_place": "Empire State Building"
+        },
+        {
+            "type": "main",
+            "activity": "Visit Empire State Building for entertainment",
+            "place": "Empire State Building",
+            "building": "Empire State Building",
+            "start_time": "15:30:00",
+            "end_time": "17:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Baskin-Robbins",
+            "place": null,
+            "building": null,
+            "start_time": "17:30:00",
+            "end_time": "18:00:00",
+            "start_place": "Empire State Building",
+            "end_place": "Baskin-Robbins"
+        },
+        {
+            "type": "meal",
+            "activity": "Dinner",
+            "place": "Baskin-Robbins",
+            "building": "302 5th Avenue",
+            "start_time": "18:00:00",
+            "end_time": "18:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute back to Hilton Garden Inn New York/Manhattan-Chelsea",
+            "place": null,
+            "building": null,
+            "start_time": "18:30:00",
+            "end_time": "19:00:00",
+            "start_place": "Baskin-Robbins",
+            "end_place": "Andrew Ng's room at Hilton Garden Inn New York/Manhattan-Chelsea"
+        },
+        {
+            "type": "main",
+            "activity": "Relax and personal time",
+            "place": "Andrew Ng's room at Hilton Garden Inn New York/Manhattan-Chelsea",
+            "building": "Hilton Garden Inn",
+            "start_time": "19:00:00",
+            "end_time": "23:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Beverages and DM Store",
+            "place": null,
+            "building": null,
+            "start_time": "23:00:00",
+            "end_time": "23:10:00",
+            "start_place": "Andrew Ng's room at Hilton Garden Inn New York/Manhattan-Chelsea",
+            "end_place": "Beverages and DM Store"
+        },
+        {
+            "type": "meal",
+            "activity": "Late-night snack",
+            "place": "Beverages and DM Store",
+            "building": "12 East 32nd Street",
+            "start_time": "23:10:00",
+            "end_time": "23:59:59"
+        }
+    ],
+    "held_objects": [
+        null,
+        null
+    ],
+    "act_address": null,
+    "act_start_time": null,
+    "act_duration": null,
+    "act_description": null,
+    "act_event": "",
+    "chat": null,
+    "chatting_with_buffer": {},
+    "chatting_end_time": null,
+    "working_place": null,
+    "commute_plan": [
+        {
+            "goal_place": "West 32nd Street Bus Stop",
+            "transit_type": "bus"
+        },
+        {
+            "goal_place": "United Hospital Fund-Ny Library",
+            "transit_type": "walk"
+        }
+    ],
+    "commute_plan_idx": 2,
+    "chatting_buffer": [
+        {
+            "time": "October 01, 2024, 09:37:08",
+            "subject": "Andrew Ng",
+            "pos": [
+                1212.3125,
+                917.1124877929688,
+                -20.0
+            ],
+            "content": "Hey James, I noticed you at the library. Are you interested in discussing AI-driven storytelling ideas with the group later today?"
+        },
+        {
+            "time": "October 01, 2024, 09:37:09",
+            "subject": "James Thompson",
+            "pos": [
+                1210.3125,
+                916.3125,
+                -19.0
+            ],
+            "content": "Yes, I'd love to join the discussion later today. AI-driven storytelling is a fascinating area, and I'm eager to explore how we can integrate personal stories to enhance audience engagement."
+        },
+        {
+            "time": "October 01, 2024, 09:37:11",
+            "subject": "Andrew Ng",
+            "pos": [
+                1212.3125,
+                917.1124877929688,
+                -20.0
+            ],
+            "content": "Great! Let's meet at the Tech Innovators session at 14:00 to brainstorm more ideas."
+        },
+        {
+            "time": "October 01, 2024, 09:37:12",
+            "subject": "James Thompson",
+            "pos": [
+                1210.3125,
+                916.3125,
+                -19.0
+            ],
+            "content": "Looking forward to the session at 14:00. Do you have any specific topics or questions you want us to focus on?"
+        },
+        {
+            "time": "October 01, 2024, 09:37:17",
+            "subject": "Andrew Ng",
+            "pos": [
+                1212.3125,
+                917.1124877929688,
+                -20.0
+            ],
+            "content": "Let's think about how we can use AI to personalize storytelling experiences. Maybe we can start with some examples this afternoon."
+        },
+        {
+            "time": "October 01, 2024, 09:37:19",
+            "subject": "James Thompson",
+            "pos": [
+                1209.9124755859375,
+                916.7125244140625,
+                -19.0
+            ],
+            "content": "I'm thrilled about our collaboration, Taylor! How about we start by exploring how our personal journeys can be woven into a narrative that empowers and inspires? Maybe we can brainstorm some scenes or musical elements that resonate with these themes."
+        },
+        {
+            "time": "October 01, 2024, 09:37:21",
+            "subject": "person_146",
+            "pos": [
+                1209.9124755859375,
+                921.1124877929688,
+                -19.0
+            ],
+            "content": "That sounds amazing, Emma! Let's think about how we can incorporate elements of empowerment and self-discovery into a storyline. Maybe we can start by identifying key moments from our own experiences that could serve as inspiration."
+        },
+        {
+            "time": "October 01, 2024, 09:37:22",
+            "subject": "someone out of sight",
+            "pos": [
+                1209.9124755859375,
+                916.7125244140625,
+                -19.0
+            ],
+            "content": "How about we draw inspiration from 'The Alchemist' and explore how its themes of personal growth and discovery can be integrated into our project?"
+        }
+    ],
+    "current_vehicle": null,
+    "current_place": "United Hospital Fund-Ny Library"
+}

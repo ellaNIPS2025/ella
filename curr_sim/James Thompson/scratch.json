@@ -1,0 +1,231 @@
+{
+    "name": "James Thompson",
+    "first_name": "James",
+    "last_name": "Thompson",
+    "age": 24,
+    "innate": "achievement, stimulation, self-direction",
+    "learned": "I am a software developer at Beverages and Snacks Store. I enjoy coding and participating in hackathons.",
+    "currently": "I am working on developing a new app for Beverages and Snacks Store.",
+    "lifestyle": "I go to bed around midnight, wake up around 08:00, eat dinner around 18:00",
+    "groups": [
+        {
+            "name": "Tech Innovators",
+            "description": "A group of tech enthusiasts and professionals discussing the latest in technology and innovation.",
+            "place": "Beverages and Snacks Store",
+            "members": [
+                "Andrew Ng",
+                "James Thompson",
+                "Roth Miller"
+            ],
+            "daily_activity": "brainstorming tech ideas from 14:00 to 15:00"
+        }
+    ],
+    "daily_requirement": "",
+    "curr_time": "October 01, 2024, 09:39:47",
+    "start_time": "October 1, 2024, 09:00:00",
+    "living_place": "James Thompson's room at MACY 31 Self Serviced Apartments",
+    "react_freq": 60,
+    "importance_trigger_max": 250,
+    "importance_trigger_curr": 250,
+    "importance_ele_n": 0,
+    "daily_plan": [],
+    "hourly_schedule": [
+        {
+            "type": "sleep",
+            "activity": "Sleep",
+            "place": "James Thompson's room at MACY 31 Self Serviced Apartments",
+            "building": "The Grand Hotel",
+            "start_time": "00:00:00",
+            "end_time": "08:00:00"
+        },
+        {
+            "type": "meal",
+            "activity": "Breakfast",
+            "place": "Paris Baguette",
+            "building": "nyma",
+            "start_time": "08:00:00",
+            "end_time": "08:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Beverages and Snacks Store",
+            "place": null,
+            "building": null,
+            "start_time": "08:30:00",
+            "end_time": "09:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Beverages and Snacks Store",
+            "place": null,
+            "building": null,
+            "start_time": "09:00:01",
+            "end_time": "09:15:01",
+            "start_place": "James Thompson's room at MACY 31 Self Serviced Apartments",
+            "end_place": "Beverages and Snacks Store"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Beverages and Snacks Store",
+            "place": null,
+            "building": null,
+            "start_time": "09:15:01",
+            "end_time": "09:30:01",
+            "start_place": null,
+            "end_place": "Beverages and Snacks Store"
+        },
+        {
+            "type": "main",
+            "activity": "Work on developing a new app",
+            "place": "Beverages and Snacks Store",
+            "building": "Eventi",
+            "start_time": "09:30:01",
+            "end_time": "12:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Broadway Bites",
+            "place": null,
+            "building": null,
+            "start_time": "12:00:00",
+            "end_time": "12:10:00",
+            "start_place": "Beverages and Snacks Store",
+            "end_place": "Broadway Bites"
+        },
+        {
+            "type": "meal",
+            "activity": "Lunch",
+            "place": "Broadway Bites",
+            "building": "Greeley Square Building",
+            "start_time": "12:10:00",
+            "end_time": "12:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute back to Beverages and Snacks Store",
+            "place": null,
+            "building": null,
+            "start_time": "12:30:00",
+            "end_time": "13:00:00",
+            "start_place": "Broadway Bites",
+            "end_place": "Beverages and Snacks Store"
+        },
+        {
+            "type": "main",
+            "activity": "Continue working on app development",
+            "place": "Beverages and Snacks Store",
+            "building": "Eventi",
+            "start_time": "13:00:00",
+            "end_time": "14:00:00"
+        },
+        {
+            "type": "main",
+            "activity": "Brainstorming tech ideas with Tech Innovators",
+            "place": "Beverages and Snacks Store",
+            "building": "Eventi",
+            "start_time": "14:00:00",
+            "end_time": "15:00:00"
+        },
+        {
+            "type": "main",
+            "activity": "Participate in coding session",
+            "place": "Beverages and Snacks Store",
+            "building": "Eventi",
+            "start_time": "15:00:00",
+            "end_time": "17:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Baskin-Robbins",
+            "place": null,
+            "building": null,
+            "start_time": "17:00:00",
+            "end_time": "17:30:00",
+            "start_place": "Beverages and Snacks Store",
+            "end_place": "Baskin-Robbins"
+        },
+        {
+            "type": "meal",
+            "activity": "Dinner",
+            "place": "Baskin-Robbins",
+            "building": "302 5th Avenue",
+            "start_time": "17:30:00",
+            "end_time": "18:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Creative Art Works",
+            "place": null,
+            "building": null,
+            "start_time": "18:00:00",
+            "end_time": "18:30:00",
+            "start_place": "Baskin-Robbins",
+            "end_place": "Creative Art Works"
+        },
+        {
+            "type": "main",
+            "activity": "Relax and enjoy entertainment",
+            "place": "Creative Art Works",
+            "building": "Manhattan Mall",
+            "start_time": "18:30:00",
+            "end_time": "20:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute back to James Thompson's room",
+            "place": null,
+            "building": null,
+            "start_time": "20:00:00",
+            "end_time": "20:30:00",
+            "start_place": "Creative Art Works",
+            "end_place": "James Thompson's room at MACY 31 Self Serviced Apartments"
+        },
+        {
+            "type": "main",
+            "activity": "Personal time and relaxation",
+            "place": "James Thompson's room at MACY 31 Self Serviced Apartments",
+            "building": "The Grand Hotel",
+            "start_time": "20:30:00",
+            "end_time": "23:00:00"
+        },
+        {
+            "type": "main",
+            "activity": "Prepare for bed",
+            "place": "James Thompson's room at MACY 31 Self Serviced Apartments",
+            "building": "The Grand Hotel",
+            "start_time": "23:00:00",
+            "end_time": "23:59:59"
+        }
+    ],
+    "held_objects": [
+        null,
+        null
+    ],
+    "act_address": null,
+    "act_start_time": null,
+    "act_duration": null,
+    "act_description": null,
+    "act_event": "",
+    "chat": null,
+    "chatting_with_buffer": {},
+    "chatting_end_time": null,
+    "working_place": "Beverages and Snacks Store",
+    "commute_plan": [
+        {
+            "goal_place": "West 32nd Street Bus Stop",
+            "transit_type": "walk"
+        },
+        {
+            "goal_place": "West 30th Street Bus Stop",
+            "transit_type": "bus"
+        },
+        {
+            "goal_place": "Beverages and Snacks Store",
+            "transit_type": "walk"
+        }
+    ],
+    "commute_plan_idx": 3,
+    "chatting_buffer": [],
+    "current_vehicle": null,
+    "current_place": "Beverages and Snacks Store"
+}

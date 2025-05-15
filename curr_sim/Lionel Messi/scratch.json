@@ -1,0 +1,232 @@
+{
+    "name": "Lionel Messi",
+    "first_name": "Lionel",
+    "last_name": "Messi",
+    "age": 37,
+    "innate": "achievement, hedonism, stimulation",
+    "learned": "I am a professional footballer known for my exceptional skills and achievements in the sport. I have won numerous awards and titles, including multiple Ballon d'Or awards. I enjoy spending time with my family and exploring new cultures.",
+    "currently": "I am visiting New York City to explore the local culture and enjoy some leisure time with my family.",
+    "lifestyle": "I go to bed around midnight, wake up around 08:00, eat dinner around 18:00",
+    "groups": [
+        {
+            "name": "Celebrity Circle",
+            "description": "A group of famous personalities networking and discussing their latest projects.",
+            "place": "Empire State Building",
+            "members": [
+                "Lionel Messi",
+                "Elon Musk",
+                "Emma Watson",
+                "Taylor Swift",
+                "Joe Anderson"
+            ],
+            "daily_activity": "networking and discussing projects from 17:00 to 18:00"
+        }
+    ],
+    "daily_requirement": "",
+    "curr_time": "October 01, 2024, 09:39:45",
+    "start_time": "October 1, 2024, 09:00:00",
+    "living_place": "Lionel Messi's room at Hyatt Herald Square New York",
+    "react_freq": 60,
+    "importance_trigger_max": 250,
+    "importance_trigger_curr": 250,
+    "importance_ele_n": 0,
+    "daily_plan": [],
+    "hourly_schedule": [
+        {
+            "type": "sleep",
+            "activity": "Sleep",
+            "place": "Lionel Messi's room at Hyatt Herald Square New York",
+            "building": "Hyatt Herald Square New York",
+            "start_time": "00:00:00",
+            "end_time": "08:00:00"
+        },
+        {
+            "type": "meal",
+            "activity": "Breakfast at Up on 20 Rooftop Lounge",
+            "place": "Up on 20 Rooftop Lounge",
+            "building": "Hyatt Herald Square New York",
+            "start_time": "08:00:00",
+            "end_time": "09:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Greeley Square Park",
+            "place": null,
+            "building": null,
+            "start_time": "09:00:00",
+            "end_time": "09:15:00",
+            "start_place": "Up on 20 Rooftop Lounge",
+            "end_place": "Greeley Square Park"
+        },
+        {
+            "type": "main",
+            "activity": "Explore Greeley Square Park",
+            "place": "Greeley Square Park",
+            "building": "open space",
+            "start_time": "09:15:00",
+            "end_time": "11:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Broadway Bites",
+            "place": null,
+            "building": null,
+            "start_time": "11:00:00",
+            "end_time": "11:15:00",
+            "start_place": "Greeley Square Park",
+            "end_place": "Broadway Bites"
+        },
+        {
+            "type": "meal",
+            "activity": "Lunch at Broadway Bites",
+            "place": "Broadway Bites",
+            "building": "Greeley Square Building",
+            "start_time": "11:15:00",
+            "end_time": "12:15:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Empire State Building",
+            "place": null,
+            "building": null,
+            "start_time": "12:15:00",
+            "end_time": "12:30:00",
+            "start_place": "Broadway Bites",
+            "end_place": "Empire State Building"
+        },
+        {
+            "type": "main",
+            "activity": "Visit Empire State Building",
+            "place": "Empire State Building",
+            "building": "Empire State Building",
+            "start_time": "12:30:00",
+            "end_time": "15:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Big Screen Plaza",
+            "place": null,
+            "building": null,
+            "start_time": "15:00:00",
+            "end_time": "15:15:00",
+            "start_place": "Empire State Building",
+            "end_place": "Big Screen Plaza"
+        },
+        {
+            "type": "main",
+            "activity": "Enjoy entertainment at Big Screen Plaza",
+            "place": "Big Screen Plaza",
+            "building": "Eventi",
+            "start_time": "15:15:00",
+            "end_time": "16:45:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Empire State Building for Celebrity Circle",
+            "place": null,
+            "building": null,
+            "start_time": "16:45:00",
+            "end_time": "17:00:00",
+            "start_place": "Big Screen Plaza",
+            "end_place": "Empire State Building"
+        },
+        {
+            "type": "main",
+            "activity": "Networking at Celebrity Circle",
+            "place": "Empire State Building",
+            "building": "Empire State Building",
+            "start_time": "17:00:00",
+            "end_time": "18:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Up on 20 Rooftop Lounge for dinner",
+            "place": null,
+            "building": null,
+            "start_time": "18:00:00",
+            "end_time": "18:15:00",
+            "start_place": "Empire State Building",
+            "end_place": "Up on 20 Rooftop Lounge"
+        },
+        {
+            "type": "meal",
+            "activity": "Dinner at Up on 20 Rooftop Lounge",
+            "place": "Up on 20 Rooftop Lounge",
+            "building": "Hyatt Herald Square New York",
+            "start_time": "18:15:00",
+            "end_time": "19:15:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Baskin-Robbins",
+            "place": null,
+            "building": null,
+            "start_time": "19:15:00",
+            "end_time": "19:30:00",
+            "start_place": "Up on 20 Rooftop Lounge",
+            "end_place": "Baskin-Robbins"
+        },
+        {
+            "type": "main",
+            "activity": "Enjoy dessert at Baskin-Robbins",
+            "place": "Baskin-Robbins",
+            "building": "302 5th Avenue",
+            "start_time": "19:30:00",
+            "end_time": "20:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute back to Lionel Messi's room at Hyatt Herald Square New York",
+            "place": null,
+            "building": null,
+            "start_time": "20:00:00",
+            "end_time": "20:15:00",
+            "start_place": "Baskin-Robbins",
+            "end_place": "Lionel Messi's room at Hyatt Herald Square New York"
+        },
+        {
+            "type": "main",
+            "activity": "Relax and spend time with family",
+            "place": "Lionel Messi's room at Hyatt Herald Square New York",
+            "building": "Hyatt Herald Square New York",
+            "start_time": "20:15:00",
+            "end_time": "23:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Up on 20 Rooftop Lounge",
+            "place": null,
+            "building": null,
+            "start_time": "23:00:00",
+            "end_time": "23:15:00",
+            "start_place": "Lionel Messi's room at Hyatt Herald Square New York",
+            "end_place": "Up on 20 Rooftop Lounge"
+        },
+        {
+            "type": "main",
+            "activity": "Enjoy late-night views at Up on 20 Rooftop Lounge",
+            "place": "Up on 20 Rooftop Lounge",
+            "building": "Hyatt Herald Square New York",
+            "start_time": "23:15:00",
+            "end_time": "23:59:59"
+        }
+    ],
+    "held_objects": [
+        null,
+        null
+    ],
+    "act_address": null,
+    "act_start_time": null,
+    "act_duration": null,
+    "act_description": null,
+    "act_event": "",
+    "chat": null,
+    "chatting_with_buffer": {},
+    "chatting_end_time": null,
+    "working_place": null,
+    "commute_plan": null,
+    "commute_plan_idx": 0,
+    "chatting_buffer": [],
+    "current_vehicle": null,
+    "current_place": null
+}

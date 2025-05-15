@@ -1,0 +1,1073 @@
+{
+    "James Thompson's room at MACY 31 Self Serviced Apartments": {
+        "building": "The Grand Hotel",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "travel_agency",
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1028.208975315094,
+            771.2782287597656,
+            -12
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-5.json",
+        "name": "James Thompson's room at MACY 31 Self Serviced Apartments"
+    },
+    "Chelsea Day School": {
+        "building": "319 5th Avenue",
+        "coarse_type": "office",
+        "fine_types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1262.6614456176758,
+            773.8320693969727,
+            -4
+        ],
+        "scene": "MV7J6NIKTKJZ2AABAAAAAAA8"
+    },
+    "Leonard Park's room at Courtyard New York Manhattan/Chelsea": {
+        "building": "Courtyard Marriot",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            743.3408966064453,
+            897.8083534240723,
+            -12
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-4.json",
+        "name": "Leonard Park's room at Courtyard New York Manhattan/Chelsea"
+    },
+    "Perros y Vainas en la Plaza": {
+        "building": "Nuchas",
+        "coarse_type": "food",
+        "fine_types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            983.6127510070801,
+            925.9900131225586,
+            -4
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "Gagopa Karaoke": {
+        "building": "28 West 32nd Street #3fl",
+        "coarse_type": "food",
+        "fine_types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1089.8406410217285,
+            827.3837432861328,
+            -4
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "Osamil": {
+        "building": "5 West 31st Street",
+        "coarse_type": "food",
+        "fine_types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1147.021011352539,
+            757.8211059570312,
+            -4
+        ],
+        "scene": "MWHLEPQKTIFZIAABAAAAAAA8"
+    },
+    "E\u014cS NoMad Apartments": {
+        "building": "EOS",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            856.461296081543,
+            847.310863494873,
+            -12
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-3.json"
+    },
+    "Baskin-Robbins": {
+        "building": "302 5th Avenue",
+        "coarse_type": "food",
+        "fine_types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1162.615135192871,
+            745.3537521362305,
+            -4
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "United Hospital Fund-Ny Library": {
+        "building": "Empire State Building",
+        "coarse_type": "office",
+        "fine_types": [
+            "library",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1209.8928298950195,
+            922.1136102676392,
+            -20
+        ],
+        "scene": "MVSGSAIKTKJ66AABAAAAAEA8"
+    },
+    "Beverages and DM Store": {
+        "building": "12 East 32nd Street",
+        "coarse_type": "stores",
+        "fine_types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1286.517837524414,
+            718.0785675048828,
+            -8
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/store-Beverages-DM.json"
+    },
+    "Fresh and Beverages Store": {
+        "building": "29 West 30th Street #301",
+        "coarse_type": "stores",
+        "fine_types": [
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1022.1074085235596,
+            738.2274551391602,
+            -4
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/store-Fresh-Beverages.json"
+    },
+    "Joe Anderson's room at Courtyard New York Manhattan/Chelsea": {
+        "building": "Courtyard Marriot",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            743.3408966064453,
+            897.8083534240723,
+            -8
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-4.json",
+        "name": "Joe Anderson's room at Courtyard New York Manhattan/Chelsea"
+    },
+    "Arrive": {
+        "building": "129 West 29th Street Second Floor",
+        "coarse_type": "entertainment",
+        "fine_types": [
+            "physiotherapist",
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            739.9726715087891,
+            803.6043243408203,
+            -4
+        ],
+        "scene": "MV4AFHQKTKJZ2AABAAAAAEA8"
+    },
+    "Alex Jefferson's room at E\u014cS NoMad Apartments": {
+        "building": "EOS",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            856.461296081543,
+            847.310863494873,
+            -8
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-3.json",
+        "name": "Alex Jefferson's room at E\u014cS NoMad Apartments"
+    },
+    "Furnished Quarters": {
+        "building": "Tower 31",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "real_estate_agency",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1125.5573425292969,
+            774.1234664916992,
+            -4
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-1.json"
+    },
+    "Beverages and Snacks Store": {
+        "building": "Eventi",
+        "coarse_type": "stores",
+        "fine_types": [
+            "car_dealer",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            831.1549682617188,
+            772.2764205932617,
+            -20
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/store-Beverages-Snacks.json"
+    },
+    "Emily Johnson's room at Living Quest Real Estate": {
+        "building": "315 5th Avenue",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1250.5939025878906,
+            748.8459930419922,
+            -8
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-2.json",
+        "name": "Emily Johnson's room at Living Quest Real Estate"
+    },
+    "Big Screen Plaza": {
+        "building": "Eventi",
+        "coarse_type": "entertainment",
+        "fine_types": [
+            "movie_theater",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            831.1549682617188,
+            772.2764205932617,
+            -8
+        ],
+        "scene": "MVJWVGYKTLDAYAABAAAAAAQ8"
+    },
+    "America Gourmet Food": {
+        "building": "831 6th Avenue",
+        "coarse_type": "food",
+        "fine_types": [
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            810.3820037841797,
+            724.9438629150391,
+            -4
+        ],
+        "scene": "MWHLEPQKTIFZIAABAAAAAAA8"
+    },
+    "Woorijip": {
+        "building": "12 West 32nd Street",
+        "coarse_type": "food",
+        "fine_types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1135.5463371276855,
+            802.588020324707,
+            -4
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "Elon Musk's room at Hilton Garden Inn New York/Manhattan-Chelsea": {
+        "building": "Hilton Garden Inn",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            724.8568115234375,
+            722.7256774902344,
+            -12
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-5.json",
+        "name": "Elon Musk's room at Hilton Garden Inn New York/Manhattan-Chelsea"
+    },
+    "Courtyard New York Manhattan/Chelsea": {
+        "building": "Courtyard Marriot",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            743.3408966064453,
+            897.8083534240723,
+            -4
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-4.json"
+    },
+    "Broadway Bites": {
+        "building": "Greeley Square Building",
+        "coarse_type": "food",
+        "fine_types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            899.0340919494629,
+            895.734016418457,
+            -4
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "My Cooking Party": {
+        "building": "130 West 29th Street 6th Floor",
+        "coarse_type": "food",
+        "fine_types": [
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "location": [
+            712.7225799560547,
+            767.3263397216797,
+            -8
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "Snacks and DM Store": {
+        "building": "1261 Broadway Floor 11",
+        "coarse_type": "stores",
+        "fine_types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            957.6713638305664,
+            859.9275741577148,
+            -8
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/store-Snacks-DM.json"
+    },
+    "Greeley Square Park": {
+        "building": "open space",
+        "coarse_type": "open",
+        "fine_types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            983.7801686090531,
+            951.4809222640304,
+            -0.0002055898657573607
+        ],
+        "scene": null
+    },
+    "Taylor Swift's room at Hyatt Herald Square New York": {
+        "building": "Hyatt Herald Square New York",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1039.6702241897583,
+            760.3578414916992,
+            -16
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-6.json",
+        "name": "Taylor Swift's room at Hyatt Herald Square New York"
+    },
+    "Hilton Garden Inn New York/Manhattan-Chelsea": {
+        "building": "Hilton Garden Inn",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            724.8568115234375,
+            722.7256774902344,
+            -4
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-5.json"
+    },
+    "Living Quest Real Estate": {
+        "building": "315 5th Avenue",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1250.5939025878906,
+            748.8459930419922,
+            -8
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-2.json"
+    },
+    "Elizabeth Mensah's room at MACY 31 Self Serviced Apartments": {
+        "building": "The Grand Hotel",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "travel_agency",
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1028.208975315094,
+            771.2782287597656,
+            -8
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-5.json",
+        "name": "Elizabeth Mensah's room at MACY 31 Self Serviced Apartments"
+    },
+    "CUNY School of Professional Studies | CUNY SPS": {
+        "building": "119 West 31st Street",
+        "coarse_type": "office",
+        "fine_types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            856.0582275390625,
+            938.0584306716919,
+            -4
+        ],
+        "scene": "MV7J6NIKTKJZ2AABAAAAAAA8"
+    },
+    "Empire State Building": {
+        "building": "Empire State Building",
+        "coarse_type": "entertainment",
+        "fine_types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1209.8928298950195,
+            922.1136102676392,
+            -12
+        ],
+        "scene": "MVJWVGYKTLDAYAABAAAAAAQ8"
+    },
+    "Chad Thompson's room at Furnished Quarters": {
+        "building": "Tower 31",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "real_estate_agency",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1125.5573425292969,
+            774.1234664916992,
+            -8
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-1.json",
+        "name": "Chad Thompson's room at Furnished Quarters"
+    },
+    "The Kunjip | Korean BBQ NYC": {
+        "building": "32 West 32nd Street",
+        "coarse_type": "food",
+        "fine_types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1077.22407913208,
+            833.4616394042969,
+            -4
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "L'Amico": {
+        "building": "Eventi",
+        "coarse_type": "food",
+        "fine_types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            831.1549682617188,
+            772.2764205932617,
+            -12
+        ],
+        "scene": "MWHLEPQKTIFZIAABAAAAAAA8"
+    },
+    "Friedman's Herald Square": {
+        "building": "132 West 31st Street",
+        "coarse_type": "food",
+        "fine_types": [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            778.9717559814453,
+            893.3489532470703,
+            -4
+        ],
+        "scene": "MWHLEPQKTIFZIAABAAAAAAA8"
+    },
+    "Fresh and Snacks Store": {
+        "building": "1261 Flushing Avenue",
+        "coarse_type": "stores",
+        "fine_types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            799.1183776855469,
+            855.8725738525391,
+            -4
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/store-Fresh-Snacks.json"
+    },
+    "miss KOREA BBQ": {
+        "building": "10 West 32nd Street",
+        "coarse_type": "food",
+        "fine_types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1142.0360488891602,
+            796.7215881347656,
+            -4
+        ],
+        "scene": "MWHLEPQKTIFZIAABAAAAAAA8"
+    },
+    "Fresh and DM Store": {
+        "building": "312 5th Avenue #7",
+        "coarse_type": "stores",
+        "fine_types": [
+            "jewelry_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1183.407356262207,
+            768.9037857055664,
+            -4
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/store-Fresh-DM.json"
+    },
+    "Hangawi": {
+        "building": "12 East 32nd Street",
+        "coarse_type": "food",
+        "fine_types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1286.517837524414,
+            718.0785675048828,
+            -4
+        ],
+        "scene": "MWHLEPQKTIFZIAABAAAAAAA8"
+    },
+    "Emma Watson's room at Kimpton Hotel Eventi": {
+        "building": "Eventi",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            831.1549682617188,
+            772.2764205932617,
+            -20
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-4.json",
+        "name": "Emma Watson's room at Kimpton Hotel Eventi"
+    },
+    "Gregorys Coffee": {
+        "building": "874 6th Avenue",
+        "coarse_type": "food",
+        "fine_types": [
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            929.4781303405762,
+            838.459831237793,
+            -4
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "Tous Les Jours": {
+        "building": "31 West 32nd Street",
+        "coarse_type": "food",
+        "fine_types": [
+            "bakery",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "location": [
+            1100.145420074463,
+            888.8156204223633,
+            -4
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "Paris Baguette": {
+        "building": "nyma",
+        "coarse_type": "food",
+        "fine_types": [
+            "bakery",
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1151.987693786621,
+            791.6066436767578,
+            -8
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "Hyatt Herald Square New York": {
+        "building": "Hyatt Herald Square New York",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1039.6702241897583,
+            760.3578414916992,
+            -4
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-6.json"
+    },
+    "Give A Kid A Dream": {
+        "building": "20 West 36th Street 10th floor",
+        "coarse_type": "entertainment",
+        "fine_types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1268.3632507324219,
+            1100.4436111450195,
+            -4
+        ],
+        "scene": "MV4AFHQKTKJZ2AABAAAAAEA8"
+    },
+    "Kimpton Hotel Eventi": {
+        "building": "Eventi",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            831.1549682617188,
+            772.2764205932617,
+            -4
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-4.json"
+    },
+    "Justin Management": {
+        "building": "1235 Broadway",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            943.8778076171875,
+            769.8535232543945,
+            -4
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-0.json"
+    },
+    "Lionel Messi's room at Hyatt Herald Square New York": {
+        "building": "Hyatt Herald Square New York",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1039.6702241897583,
+            760.3578414916992,
+            -12
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-6.json",
+        "name": "Lionel Messi's room at Hyatt Herald Square New York"
+    },
+    "MACY 31 Self Serviced Apartments": {
+        "building": "The Grand Hotel",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "travel_agency",
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1028.208975315094,
+            771.2782287597656,
+            -4
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-5.json"
+    },
+    "Satellite Academy High School": {
+        "building": "120 West 30th Street",
+        "coarse_type": "office",
+        "fine_types": [
+            "secondary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            797.3880767822266,
+            808.3782043457031,
+            -4
+        ],
+        "scene": "MVSGSAIKTKJ66AABAAAAAEA8"
+    },
+    "Ayza Wine & Chocolate Bar": {
+        "building": "Life Hotel",
+        "coarse_type": "food",
+        "fine_types": [
+            "bar",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "location": [
+            1097.0518035888672,
+            786.0063781738281,
+            -8
+        ],
+        "scene": "MWHLEPQKTIFZIAABAAAAAAA8"
+    },
+    "Andrew Ng's room at Hilton Garden Inn New York/Manhattan-Chelsea": {
+        "building": "Hilton Garden Inn",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            724.8568115234375,
+            722.7256774902344,
+            -8
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-5.json",
+        "name": "Andrew Ng's room at Hilton Garden Inn New York/Manhattan-Chelsea"
+    },
+    "Megan Carter's room at E\u014cS NoMad Apartments": {
+        "building": "EOS",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            856.461296081543,
+            847.310863494873,
+            -16
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-3.json",
+        "name": "Megan Carter's room at E\u014cS NoMad Apartments"
+    },
+    "Fushimi Market": {
+        "building": "838 6th Avenue #3",
+        "coarse_type": "food",
+        "fine_types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            876.5478782653809,
+            729.8294067382812,
+            -8
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "Roth Miller's room at MACY 31 Self Serviced Apartments": {
+        "building": "The Grand Hotel",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "travel_agency",
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1028.208975315094,
+            771.2782287597656,
+            -16
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-5.json",
+        "name": "Roth Miller's room at MACY 31 Self Serviced Apartments"
+    },
+    "Louise Roberts's room at E\u014cS NoMad Apartments": {
+        "building": "EOS",
+        "coarse_type": "accommodation",
+        "fine_types": [
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            856.461296081543,
+            847.310863494873,
+            -12
+        ],
+        "scene": "ViCo/modules/indoor_scenes/scenes/dormitory-3.json",
+        "name": "Louise Roberts's room at E\u014cS NoMad Apartments"
+    },
+    "Up on 20 Rooftop Lounge": {
+        "building": "Hyatt Herald Square New York",
+        "coarse_type": "food",
+        "fine_types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1039.6702241897583,
+            760.3578414916992,
+            -8
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "Chorus Karaoke": {
+        "building": "25 West 32nd Street",
+        "coarse_type": "food",
+        "fine_types": [
+            "bar",
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            1116.3717498779297,
+            866.1845169067383,
+            -8
+        ],
+        "scene": "MV5M25QKTKJZ2AABAAAAAAI8"
+    },
+    "Creative Art Works": {
+        "building": "Manhattan Mall",
+        "coarse_type": "entertainment",
+        "fine_types": [
+            "art_gallery",
+            "point_of_interest",
+            "establishment"
+        ],
+        "location": [
+            912.0142936706543,
+            986.3369770050049,
+            -8
+        ],
+        "scene": "MV4AFHQKTKJZ2AABAAAAAEA8"
+    },
+    "West 33rd Street Bus Stop": {
+        "building": "open space",
+        "coarse_type": "transit",
+        "fine_type": "bus stop",
+        "location": [
+            -21.863142239604706,
+            3.1658655452613136,
+            118.93192379640959
+        ],
+        "scene": null
+    },
+    "West 30th Street Bus Stop": {
+        "building": "open space",
+        "coarse_type": "transit",
+        "fine_type": "bus stop",
+        "location": [
+            -164.61506034391584,
+            -177.51857904087157,
+            117.79818275552277
+        ],
+        "scene": null
+    },
+    "West 32nd Street Bus Stop": {
+        "building": "open space",
+        "coarse_type": "transit",
+        "fine_type": "bus stop",
+        "location": [
+            208.81712440140075,
+            -209.97002528743698,
+            118.67613220710561
+        ],
+        "scene": null
+    },
+    "Bicycle Sharing Station 1": {
+        "building": "open space",
+        "coarse_type": "transit",
+        "fine_type": "bicycle station",
+        "location": [
+            78.04482205789564,
+            -149.51055936875215,
+            119.9740527921292
+        ],
+        "scene": null
+    },
+    "Bicycle Sharing Station 2": {
+        "building": "open space",
+        "coarse_type": "transit",
+        "fine_type": "bicycle station",
+        "location": [
+            -184.09744629704446,
+            -88.75683696354766,
+            117.59810608634173
+        ],
+        "scene": null
+    },
+    "Bicycle Sharing Station 3": {
+        "building": "open space",
+        "coarse_type": "transit",
+        "fine_type": "bicycle station",
+        "location": [
+            166.06543909251093,
+            -11.633172081622893,
+            120.46989779160114
+        ],
+        "scene": null
+    },
+    "Bicycle Sharing Station 4": {
+        "building": "open space",
+        "coarse_type": "transit",
+        "fine_type": "bicycle station",
+        "location": [
+            -142.17263687851377,
+            180.79953000430368,
+            118.17021252788088
+        ],
+        "scene": null
+    },
+    "Bicycle Sharing Station 5": {
+        "building": "open space",
+        "coarse_type": "transit",
+        "fine_type": "bicycle station",
+        "location": [
+            -64.68121964625644,
+            -129.33286547358568,
+            118.51301689755132
+        ],
+        "scene": null
+    },
+    "Bicycle Sharing Station 6": {
+        "building": "open space",
+        "coarse_type": "transit",
+        "fine_type": "bicycle station",
+        "location": [
+            -210.83448137085242,
+            -237.86099832166857,
+            118.44558124188929
+        ],
+        "scene": null
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "name": "Alex Jefferson",
+    "first_name": "Alex",
+    "last_name": "Jefferson",
+    "age": 30,
+    "innate": "achievement, security, conformity",
+    "learned": "I am a hotel manager at the Hilton Garden Inn New York/Manhattan-Chelsea. I enjoy reading mystery novels and hiking during my free time.",
+    "currently": "I am focused on improving guest satisfaction scores at the Hilton Garden Inn.",
+    "lifestyle": "I go to bed around midnight, wake up around 08:00, eat dinner around 18:00",
+    "groups": [
+        {
+            "name": "Hospitality Enthusiasts",
+            "description": "A group of individuals working in the hospitality industry, sharing experiences and tips.",
+            "place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "members": [
+                "Alex Jefferson",
+                "Chad Thompson",
+                "Leonard Park"
+            ],
+            "daily_activity": "discussing hospitality trends from 15:00 to 16:00"
+        }
+    ],
+    "daily_requirement": "",
+    "curr_time": "October 01, 2024, 09:39:43",
+    "start_time": "October 1, 2024, 09:00:00",
+    "living_place": "Alex Jefferson's room at E\u014cS NoMad Apartments",
+    "react_freq": 60,
+    "importance_trigger_max": 250,
+    "importance_trigger_curr": 250,
+    "importance_ele_n": 0,
+    "daily_plan": [],
+    "hourly_schedule": [
+        {
+            "type": "sleep",
+            "activity": "Sleep",
+            "place": "Alex Jefferson's room at E\u014cS NoMad Apartments",
+            "building": "EOS",
+            "start_time": "00:00:00",
+            "end_time": "08:00:00"
+        },
+        {
+            "type": "meal",
+            "activity": "Breakfast",
+            "place": "Friedman's Herald Square",
+            "building": "132 West 31st Street",
+            "start_time": "08:30:00",
+            "end_time": "09:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Hilton Garden Inn New York/Manhattan-Chelsea",
+            "place": null,
+            "building": null,
+            "start_time": "09:00:00",
+            "end_time": "09:30:00",
+            "start_place": "Friedman's Herald Square",
+            "end_place": "Hilton Garden Inn New York/Manhattan-Chelsea"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Hilton Garden Inn New York/Manhattan-Chelsea",
+            "place": null,
+            "building": null,
+            "start_time": "09:30:01",
+            "end_time": "09:45:01",
+            "start_place": null,
+            "end_place": "Hilton Garden Inn New York/Manhattan-Chelsea"
+        },
+        {
+            "type": "main",
+            "activity": "Work on improving guest satisfaction scores",
+            "place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "building": "Hilton Garden Inn",
+            "start_time": "09:45:01",
+            "end_time": "12:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Woorijip",
+            "place": null,
+            "building": null,
+            "start_time": "12:30:00",
+            "end_time": "12:40:00",
+            "start_place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "end_place": "Woorijip"
+        },
+        {
+            "type": "meal",
+            "activity": "Lunch",
+            "place": "Woorijip",
+            "building": "12 West 32nd Street",
+            "start_time": "12:40:00",
+            "end_time": "13:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute back to Hilton Garden Inn New York/Manhattan-Chelsea",
+            "place": null,
+            "building": null,
+            "start_time": "13:00:00",
+            "end_time": "13:30:00",
+            "start_place": "Woorijip",
+            "end_place": "Hilton Garden Inn New York/Manhattan-Chelsea"
+        },
+        {
+            "type": "main",
+            "activity": "Continue working on guest satisfaction initiatives",
+            "place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "building": "Hilton Garden Inn",
+            "start_time": "13:30:00",
+            "end_time": "15:00:00"
+        },
+        {
+            "type": "main",
+            "activity": "Discuss hospitality trends with Hospitality Enthusiasts",
+            "place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "building": "Hilton Garden Inn",
+            "start_time": "15:00:00",
+            "end_time": "16:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to United Hospital Fund-Ny Library",
+            "place": null,
+            "building": null,
+            "start_time": "16:00:00",
+            "end_time": "16:10:00",
+            "start_place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "end_place": "United Hospital Fund-Ny Library"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to United Hospital Fund-Ny Library",
+            "place": null,
+            "building": null,
+            "start_time": "16:10:00",
+            "end_time": "16:30:00",
+            "start_place": null,
+            "end_place": "United Hospital Fund-Ny Library"
+        },
+        {
+            "type": "main",
+            "activity": "Read mystery novel",
+            "place": "United Hospital Fund-Ny Library",
+            "building": "Empire State Building",
+            "start_time": "16:30:00",
+            "end_time": "17:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Friedman's Herald Square for dinner",
+            "place": null,
+            "building": null,
+            "start_time": "17:30:00",
+            "end_time": "18:00:00",
+            "start_place": "United Hospital Fund-Ny Library",
+            "end_place": "Friedman's Herald Square"
+        },
+        {
+            "type": "meal",
+            "activity": "Dinner",
+            "place": "Friedman's Herald Square",
+            "building": "132 West 31st Street",
+            "start_time": "18:00:00",
+            "end_time": "18:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Big Screen Plaza for entertainment",
+            "place": null,
+            "building": null,
+            "start_time": "18:30:00",
+            "end_time": "19:00:00",
+            "start_place": "Friedman's Herald Square",
+            "end_place": "Big Screen Plaza"
+        },
+        {
+            "type": "main",
+            "activity": "Enjoy entertainment at Big Screen Plaza",
+            "place": "Big Screen Plaza",
+            "building": "Eventi",
+            "start_time": "19:00:00",
+            "end_time": "21:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute back to Alex Jefferson's room at E\u014cS NoMad Apartments",
+            "place": null,
+            "building": null,
+            "start_time": "21:00:00",
+            "end_time": "21:30:00",
+            "start_place": "Big Screen Plaza",
+            "end_place": "Alex Jefferson's room at E\u014cS NoMad Apartments"
+        },
+        {
+            "type": "main",
+            "activity": "Relax and read mystery novel",
+            "place": "Alex Jefferson's room at E\u014cS NoMad Apartments",
+            "building": "EOS",
+            "start_time": "21:30:00",
+            "end_time": "23:30:00"
+        },
+        {
+            "type": "sleep",
+            "activity": "Sleep",
+            "place": "Alex Jefferson's room at E\u014cS NoMad Apartments",
+            "building": "EOS",
+            "start_time": "23:30:00",
+            "end_time": "23:59:59"
+        }
+    ],
+    "held_objects": [
+        null,
+        null
+    ],
+    "act_address": null,
+    "act_start_time": null,
+    "act_duration": null,
+    "act_description": null,
+    "act_event": "",
+    "chat": null,
+    "chatting_with_buffer": {},
+    "chatting_end_time": null,
+    "working_place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+    "commute_plan": [
+        {
+            "goal_place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "transit_type": "walk"
+        }
+    ],
+    "commute_plan_idx": 1,
+    "chatting_buffer": [],
+    "current_vehicle": null,
+    "current_place": "Hilton Garden Inn New York/Manhattan-Chelsea"
+}

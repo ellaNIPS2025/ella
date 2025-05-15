@@ -1,0 +1,134 @@
+[
+    {
+        "type": "sleep",
+        "activity": "Sleep",
+        "place": "Elon Musk's room at Hilton Garden Inn New York/Manhattan-Chelsea",
+        "building": "Hilton Garden Inn",
+        "start_time": "00:00:00",
+        "end_time": "08:00:00"
+    },
+    {
+        "type": "meal",
+        "activity": "Breakfast",
+        "place": "Ayza Wine & Chocolate Bar",
+        "building": "Life Hotel",
+        "start_time": "08:00:00",
+        "end_time": "09:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Empire State Building",
+        "place": null,
+        "building": null,
+        "start_time": "09:00:00",
+        "end_time": "09:30:00",
+        "start_place": "Ayza Wine & Chocolate Bar",
+        "end_place": "Empire State Building"
+    },
+    {
+        "type": "main",
+        "activity": "Collaborate on sustainable energy project",
+        "place": "Empire State Building",
+        "building": "Empire State Building",
+        "start_time": "09:30:00",
+        "end_time": "12:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to The Kunjip | Korean BBQ NYC",
+        "place": null,
+        "building": null,
+        "start_time": "12:30:00",
+        "end_time": "12:40:00",
+        "start_place": "Empire State Building",
+        "end_place": "The Kunjip | Korean BBQ NYC"
+    },
+    {
+        "type": "meal",
+        "activity": "Lunch",
+        "place": "The Kunjip | Korean BBQ NYC",
+        "building": "32 West 32nd Street",
+        "start_time": "12:40:00",
+        "end_time": "13:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Empire State Building",
+        "place": null,
+        "building": null,
+        "start_time": "13:30:00",
+        "end_time": "14:00:00",
+        "start_place": "The Kunjip | Korean BBQ NYC",
+        "end_place": "Empire State Building"
+    },
+    {
+        "type": "main",
+        "activity": "Continue collaboration on sustainable energy project",
+        "place": "Empire State Building",
+        "building": "Empire State Building",
+        "start_time": "14:00:00",
+        "end_time": "17:00:00"
+    },
+    {
+        "type": "main",
+        "activity": "Networking and discussing projects with Celebrity Circle",
+        "place": "Empire State Building",
+        "building": "Empire State Building",
+        "start_time": "17:00:00",
+        "end_time": "18:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Woorijip",
+        "place": null,
+        "building": null,
+        "start_time": "18:00:00",
+        "end_time": "18:10:00",
+        "start_place": "Empire State Building",
+        "end_place": "Woorijip"
+    },
+    {
+        "type": "meal",
+        "activity": "Dinner",
+        "place": "Woorijip",
+        "building": "12 West 32nd Street",
+        "start_time": "18:10:00",
+        "end_time": "19:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Hilton Garden Inn New York/Manhattan-Chelsea",
+        "place": null,
+        "building": null,
+        "start_time": "19:00:00",
+        "end_time": "19:30:00",
+        "start_place": "Woorijip",
+        "end_place": "Elon Musk's room at Hilton Garden Inn New York/Manhattan-Chelsea"
+    },
+    {
+        "type": "main",
+        "activity": "Relax and unwind",
+        "place": "Elon Musk's room at Hilton Garden Inn New York/Manhattan-Chelsea",
+        "building": "Hilton Garden Inn",
+        "start_time": "19:30:00",
+        "end_time": "23:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Beverages and Snacks Store",
+        "place": null,
+        "building": null,
+        "start_time": "23:00:00",
+        "end_time": "23:30:00",
+        "start_place": "Elon Musk's room at Hilton Garden Inn New York/Manhattan-Chelsea",
+        "end_place": "Beverages and Snacks Store"
+    },
+    {
+        "type": "main",
+        "activity": "Purchase snacks and beverages",
+        "place": "Beverages and Snacks Store",
+        "building": "Eventi",
+        "start_time": "23:30:00",
+        "end_time": "23:59:59"
+    }
+]

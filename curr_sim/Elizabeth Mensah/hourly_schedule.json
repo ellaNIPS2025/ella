@@ -1,0 +1,132 @@
+[
+    {
+        "type": "sleep",
+        "activity": "Sleep",
+        "place": "Elizabeth Mensah's room at MACY 31 Self Serviced Apartments",
+        "building": "The Grand Hotel",
+        "start_time": "00:00:00",
+        "end_time": "08:00:00"
+    },
+    {
+        "type": "meal",
+        "activity": "Breakfast",
+        "place": "Elizabeth Mensah's room at MACY 31 Self Serviced Apartments",
+        "building": "The Grand Hotel",
+        "start_time": "08:00:00",
+        "end_time": "08:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to CUNY School of Professional Studies",
+        "place": null,
+        "building": null,
+        "start_time": "08:30:00",
+        "end_time": "09:00:00"
+    },
+    {
+        "type": "main",
+        "activity": "Work on thesis on urban sustainability",
+        "place": "CUNY School of Professional Studies | CUNY SPS",
+        "building": "119 West 31st Street",
+        "start_time": "09:00:00",
+        "end_time": "12:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Woorijip",
+        "place": null,
+        "building": null,
+        "start_time": "12:00:00",
+        "end_time": "12:10:00",
+        "start_place": "CUNY School of Professional Studies | CUNY SPS",
+        "end_place": "Woorijip"
+    },
+    {
+        "type": "meal",
+        "activity": "Lunch",
+        "place": "Woorijip",
+        "building": "12 West 32nd Street",
+        "start_time": "12:10:00",
+        "end_time": "12:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to CUNY School of Professional Studies",
+        "place": null,
+        "building": null,
+        "start_time": "12:30:00",
+        "end_time": "13:00:00",
+        "start_place": "Woorijip",
+        "end_place": "CUNY School of Professional Studies | CUNY SPS"
+    },
+    {
+        "type": "main",
+        "activity": "Continue working on thesis",
+        "place": "CUNY School of Professional Studies | CUNY SPS",
+        "building": "119 West 31st Street",
+        "start_time": "13:00:00",
+        "end_time": "15:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to United Hospital Fund-Ny Library",
+        "place": null,
+        "building": null,
+        "start_time": "15:30:00",
+        "end_time": "16:00:00",
+        "start_place": "CUNY School of Professional Studies | CUNY SPS",
+        "end_place": "United Hospital Fund-Ny Library"
+    },
+    {
+        "type": "main",
+        "activity": "Collaborate on art projects with Creative Minds",
+        "place": "United Hospital Fund-Ny Library",
+        "building": "Empire State Building",
+        "start_time": "16:00:00",
+        "end_time": "17:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to The Kunjip | Korean BBQ NYC",
+        "place": null,
+        "building": null,
+        "start_time": "17:00:00",
+        "end_time": "17:30:00",
+        "start_place": "United Hospital Fund-Ny Library",
+        "end_place": "The Kunjip | Korean BBQ NYC"
+    },
+    {
+        "type": "meal",
+        "activity": "Dinner",
+        "place": "The Kunjip | Korean BBQ NYC",
+        "building": "32 West 32nd Street",
+        "start_time": "17:30:00",
+        "end_time": "18:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Elizabeth Mensah's room",
+        "place": null,
+        "building": null,
+        "start_time": "18:00:00",
+        "end_time": "18:30:00",
+        "start_place": "The Kunjip | Korean BBQ NYC",
+        "end_place": "Elizabeth Mensah's room at MACY 31 Self Serviced Apartments"
+    },
+    {
+        "type": "main",
+        "activity": "Relax and personal time",
+        "place": "Elizabeth Mensah's room at MACY 31 Self Serviced Apartments",
+        "building": "The Grand Hotel",
+        "start_time": "18:30:00",
+        "end_time": "23:30:00"
+    },
+    {
+        "type": "sleep",
+        "activity": "Prepare for sleep",
+        "place": "Elizabeth Mensah's room at MACY 31 Self Serviced Apartments",
+        "building": "The Grand Hotel",
+        "start_time": "23:30:00",
+        "end_time": "23:59:59"
+    }
+]

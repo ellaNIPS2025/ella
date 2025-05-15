@@ -1,0 +1,132 @@
+[
+    {
+        "type": "sleep",
+        "activity": "Sleep",
+        "place": "Roth Miller's room at MACY 31 Self Serviced Apartments",
+        "building": "The Grand Hotel",
+        "start_time": "00:00:00",
+        "end_time": "08:00:00"
+    },
+    {
+        "type": "meal",
+        "activity": "Breakfast",
+        "place": "America Gourmet Food",
+        "building": "831 6th Avenue",
+        "start_time": "08:00:00",
+        "end_time": "08:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Arrive",
+        "place": null,
+        "building": null,
+        "start_time": "08:30:00",
+        "end_time": "09:00:00"
+    },
+    {
+        "type": "main",
+        "activity": "Fitness Training Session",
+        "place": "Arrive",
+        "building": "129 West 29th Street Second Floor",
+        "start_time": "09:00:00",
+        "end_time": "12:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to America Gourmet Food",
+        "place": null,
+        "building": null,
+        "start_time": "12:00:00",
+        "end_time": "12:30:00",
+        "start_place": "Arrive",
+        "end_place": "America Gourmet Food"
+    },
+    {
+        "type": "meal",
+        "activity": "Lunch",
+        "place": "America Gourmet Food",
+        "building": "831 6th Avenue",
+        "start_time": "12:30:00",
+        "end_time": "13:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Beverages and Snacks Store",
+        "place": null,
+        "building": null,
+        "start_time": "13:00:00",
+        "end_time": "13:30:00",
+        "start_place": "America Gourmet Food",
+        "end_place": "Beverages and Snacks Store"
+    },
+    {
+        "type": "main",
+        "activity": "Tech Innovators Meeting",
+        "place": "Beverages and Snacks Store",
+        "building": "Eventi",
+        "start_time": "13:30:00",
+        "end_time": "15:00:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Empire State Building",
+        "place": null,
+        "building": null,
+        "start_time": "15:00:00",
+        "end_time": "15:30:00",
+        "start_place": "Beverages and Snacks Store",
+        "end_place": "Empire State Building"
+    },
+    {
+        "type": "main",
+        "activity": "Training Run for NYC Marathon",
+        "place": "Empire State Building",
+        "building": "Empire State Building",
+        "start_time": "15:30:00",
+        "end_time": "17:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to America Gourmet Food",
+        "place": null,
+        "building": null,
+        "start_time": "17:30:00",
+        "end_time": "18:00:00",
+        "start_place": "Empire State Building",
+        "end_place": "America Gourmet Food"
+    },
+    {
+        "type": "meal",
+        "activity": "Dinner",
+        "place": "America Gourmet Food",
+        "building": "831 6th Avenue",
+        "start_time": "18:00:00",
+        "end_time": "18:30:00"
+    },
+    {
+        "type": "commute",
+        "activity": "Commute to Roth Miller's room at MACY 31 Self Serviced Apartments",
+        "place": null,
+        "building": null,
+        "start_time": "18:30:00",
+        "end_time": "19:00:00",
+        "start_place": "America Gourmet Food",
+        "end_place": "Roth Miller's room at MACY 31 Self Serviced Apartments"
+    },
+    {
+        "type": "main",
+        "activity": "Relax and Personal Time",
+        "place": "Roth Miller's room at MACY 31 Self Serviced Apartments",
+        "building": "The Grand Hotel",
+        "start_time": "19:00:00",
+        "end_time": "23:00:00"
+    },
+    {
+        "type": "main",
+        "activity": "Prepare for Next Day",
+        "place": "Roth Miller's room at MACY 31 Self Serviced Apartments",
+        "building": "The Grand Hotel",
+        "start_time": "23:00:00",
+        "end_time": "23:59:59"
+    }
+]

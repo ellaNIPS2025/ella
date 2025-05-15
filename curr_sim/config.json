@@ -1,0 +1,822 @@
+{
+    "sim_name": "NY_agents_num_15",
+    "agent_names": [
+        "Alex Jefferson",
+        "Andrew Ng",
+        "Chad Thompson",
+        "Lionel Messi",
+        "Elizabeth Mensah",
+        "Elon Musk",
+        "Emily Johnson",
+        "Emma Watson",
+        "James Thompson",
+        "Joe Anderson",
+        "Leonard Park",
+        "Louise Roberts",
+        "Megan Carter",
+        "Roth Miller",
+        "Taylor Swift"
+    ],
+    "step": 2380,
+    "agent_infos": [
+        {
+            "cash": 700,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                -288.25,
+                -282.25,
+                117.98462009734524,
+                -0.0,
+                0.0,
+                8.06489715274095e-15
+            ],
+            "current_building": "Hilton Garden Inn",
+            "current_place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "current_vehicle": null
+        },
+        {
+            "cash": 1000,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                245.25,
+                -133.25,
+                120.15328057724729,
+                -0.0,
+                0.0,
+                1.5707963267948963
+            ],
+            "current_building": "Empire State Building",
+            "current_place": "United Hospital Fund-Ny Library",
+            "current_vehicle": null
+        },
+        {
+            "cash": 500,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                298.25,
+                -270.25,
+                116.70200177348582,
+                -0.0,
+                0.0,
+                -3.1415926535897913
+            ],
+            "current_building": "12 East 32nd Street",
+            "current_place": "Hangawi",
+            "current_vehicle": null
+        },
+        {
+            "cash": 1000,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                26.027437084303916,
+                -246.30479353532635,
+                119.07742422193414,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "current_building": "open space",
+            "current_place": null,
+            "current_vehicle": null
+        },
+        {
+            "cash": 299.4,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                -139.75,
+                -28.25,
+                118.17337936342352,
+                -0.0,
+                0.0,
+                0.0
+            ],
+            "current_building": "119 West 31st Street",
+            "current_place": "CUNY School of Professional Studies | CUNY SPS",
+            "current_vehicle": null
+        },
+        {
+            "cash": 1000,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                137.75,
+                -71.75,
+                119.98394735670253,
+                -0.0,
+                0.0,
+                1.6653345369377338e-16
+            ],
+            "current_building": "Empire State Building",
+            "current_place": "Empire State Building",
+            "current_vehicle": null
+        },
+        {
+            "cash": 200,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                -186.75,
+                -183.75,
+                118.06101720781075,
+                -0.0,
+                0.0,
+                1.570796326794894
+            ],
+            "current_building": "120 West 30th Street",
+            "current_place": "Satellite Academy High School",
+            "current_vehicle": null
+        },
+        {
+            "cash": 1000,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                137.75,
+                -71.75,
+                119.98394735670253,
+                -0.0,
+                0.0,
+                1.2145106951489006e-15
+            ],
+            "current_building": "Empire State Building",
+            "current_place": "United Hospital Fund-Ny Library",
+            "current_vehicle": null
+        },
+        {
+            "cash": 600,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                -166.25,
+                -192.75,
+                117.85464314725087,
+                -0.0,
+                0.0,
+                -2.356194490192345
+            ],
+            "current_building": "Eventi",
+            "current_place": "Beverages and Snacks Store",
+            "current_vehicle": null
+        },
+        {
+            "cash": 800,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                -25.75,
+                -228.25,
+                118.98052789853216,
+                -0.0,
+                0.0,
+                -1.5707963267948948
+            ],
+            "current_building": "1235 Broadway",
+            "current_place": "Justin Management",
+            "current_vehicle": null
+        },
+        {
+            "cash": 500,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                148.24999999999997,
+                -188.25,
+                119.341714665015,
+                -0.0,
+                0.0,
+                -3.141592653589763
+            ],
+            "current_building": "12 West 32nd Street",
+            "current_place": "Woorijip",
+            "current_vehicle": null
+        },
+        {
+            "cash": 400,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                137.25,
+                -71.75,
+                119.9797248731736,
+                -0.0,
+                0.0,
+                -0.7853981633974495
+            ],
+            "current_building": "Empire State Building",
+            "current_place": "United Hospital Fund-Ny Library",
+            "current_vehicle": null
+        },
+        {
+            "cash": 100,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                243.75,
+                -224.75,
+                118.86890226778915,
+                -0.0,
+                0.0,
+                -6.010984557184381e-16
+            ],
+            "current_building": "319 5th Avenue",
+            "current_place": "Chelsea Day School",
+            "current_vehicle": null
+        },
+        {
+            "cash": 600,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                -274.25,
+                -205.75,
+                117.79401541667042,
+                -0.0,
+                0.0,
+                3.2084884678664232e-15
+            ],
+            "current_building": "129 West 29th Street Second Floor",
+            "current_place": "Arrive",
+            "current_vehicle": null
+        },
+        {
+            "cash": 1000,
+            "held_objects": [
+                null,
+                null
+            ],
+            "physical_health": 1,
+            "mental_health": 1,
+            "condition": {
+                "physical": null,
+                "mental": null
+            },
+            "outdoor_pose": [
+                245.25,
+                -133.75,
+                120.11434462896221,
+                -0.0,
+                0.0,
+                1.570796326794897
+            ],
+            "current_building": "Empire State Building",
+            "current_place": "United Hospital Fund-Ny Library",
+            "current_vehicle": null
+        }
+    ],
+    "curr_time": "October 01, 2024, 09:39:40",
+    "start_time": "October 1, 2024, 09:00:00",
+    "agent_poses": [
+        [
+            725.4926461923563,
+            724.5025890530935,
+            -4.0,
+            -0.0,
+            0.0,
+            0.38063265036701827
+        ],
+        [
+            1212.3125,
+            917.1124877929688,
+            -20.0,
+            -0.0,
+            0.0,
+            -2.9764604720408885
+        ],
+        [
+            1500.0,
+            1500.0,
+            -50.0,
+            -0.0,
+            0.0,
+            3.1415926535897913
+        ],
+        [
+            52.74999999999999,
+            -235.25,
+            118.8849034498003,
+            -0.0,
+            0.0,
+            -1.5282454736134254
+        ],
+        [
+            1500.0,
+            1500.0,
+            -50.0,
+            -0.0,
+            0.0,
+            1.6246591529914673
+        ],
+        [
+            1210.5125732421875,
+            922.5125122070312,
+            -12.0,
+            -0.0,
+            0.0,
+            0.01807274416883746
+        ],
+        [
+            1500.0,
+            1500.0,
+            -50.0,
+            -0.0,
+            0.0,
+            3.1415926535897913
+        ],
+        [
+            1211.0278682542246,
+            919.4123051352603,
+            -20.0,
+            -0.0,
+            0.0,
+            -2.390698386710176
+        ],
+        [
+            831.8659175131944,
+            775.153994043755,
+            -20.0,
+            -0.0,
+            0.0,
+            0.9590708197423304
+        ],
+        [
+            1500.0,
+            1500.0,
+            -50.0,
+            -0.0,
+            0.0,
+            3.1415926535897913
+        ],
+        [
+            1499.3125,
+            1500.7125244140625,
+            -50.0,
+            -0.0,
+            0.0,
+            0.004348524263644102
+        ],
+        [
+            1208.9124755859375,
+            921.7125244140625,
+            -20.0,
+            -0.0,
+            0.0,
+            -0.05047895976684932
+        ],
+        [
+            1500.0,
+            1500.0,
+            -50.0,
+            -0.0,
+            0.0,
+            3.1415926535897913
+        ],
+        [
+            1500.0,
+            1500.0,
+            -50.0,
+            -0.0,
+            0.0,
+            3.1415926535897913
+        ],
+        [
+            1209.9124755859375,
+            921.1124877929688,
+            -20.0,
+            -0.0,
+            0.0,
+            -1.5707963267948966
+        ]
+    ],
+    "locator_colors": [
+        "red",
+        "green",
+        "blue",
+        "orange",
+        "purple",
+        "yellow",
+        "pink",
+        "cyan",
+        "magenta",
+        "teal",
+        "maroon",
+        "navy",
+        "olive",
+        "lime",
+        "aqua"
+    ],
+    "locator_colors_rgb": [
+        [
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.5019607843137255,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            1.0
+        ],
+        [
+            1.0,
+            0.6470588235294118,
+            0.0
+        ],
+        [
+            0.5019607843137255,
+            0.0,
+            0.5019607843137255
+        ],
+        [
+            1.0,
+            1.0,
+            0.0
+        ],
+        [
+            1.0,
+            0.7529411764705882,
+            0.796078431372549
+        ],
+        [
+            0.0,
+            1.0,
+            1.0
+        ],
+        [
+            1.0,
+            0.0,
+            1.0
+        ],
+        [
+            0.0,
+            0.5019607843137255,
+            0.5019607843137255
+        ],
+        [
+            0.5019607843137255,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            0.5019607843137255
+        ],
+        [
+            0.5019607843137255,
+            0.5019607843137255,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            1.0
+        ]
+    ],
+    "num_agents": 15,
+    "sec_per_step": 1,
+    "agent_skins": [
+        "ViCo/avatars/models/mixamo_Alex_Jefferson.glb",
+        "ViCo/avatars/models/celebrity_Andrew_Ng.glb",
+        "ViCo/avatars/models/mixamo_Chad_Thompson.glb",
+        "ViCo/avatars/models/celebrity_Lionel_Messi.glb",
+        "ViCo/avatars/models/mixamo_Elizabeth_Mensah.glb",
+        "ViCo/avatars/models/celebrity_Elon_Musk.glb",
+        "ViCo/avatars/models/mixamo_Emily_Johnson.glb",
+        "ViCo/avatars/models/celebrity_Emma_Watson.glb",
+        "ViCo/avatars/models/mixamo_James_Thompson.glb",
+        "ViCo/avatars/models/mixamo_Joe_Anderson.glb",
+        "ViCo/avatars/models/mixamo_Leonard_Park.glb",
+        "ViCo/avatars/models/mixamo_Louise_Roberts.glb",
+        "ViCo/avatars/models/mixamo_Megan_Carter.glb",
+        "ViCo/avatars/models/mixamo_Roth_Miller.glb",
+        "ViCo/avatars/models/celebrity_Taylor_Swift.glb"
+    ],
+    "stores": {
+        "Beverages and DM Store": {
+            "building": "12 East 32nd Street",
+            "scene": "ViCo/modules/indoor_scenes/scenes/store-Beverages-DM.json",
+            "type": "store-Beverages-DM",
+            "goods": [
+                {
+                    "name": "Dairy & Meat",
+                    "price": 12,
+                    "quantity": 5
+                },
+                {
+                    "name": "Beverages",
+                    "price": 12,
+                    "quantity": 5
+                }
+            ]
+        },
+        "Beverages and Snacks Store": {
+            "building": "Eventi",
+            "scene": "ViCo/modules/indoor_scenes/scenes/store-Beverages-Snacks.json",
+            "type": "store-Beverages-Snacks",
+            "goods": [
+                {
+                    "name": "Beverages",
+                    "price": 14,
+                    "quantity": 5
+                },
+                {
+                    "name": "Snacks",
+                    "price": 10,
+                    "quantity": 5
+                }
+            ]
+        },
+        "Fresh and Beverages Store": {
+            "building": "29 West 30th Street #301",
+            "scene": "ViCo/modules/indoor_scenes/scenes/store-Fresh-Beverages.json",
+            "type": "store-Fresh-Beverages",
+            "goods": [
+                {
+                    "name": "Fresh Produce",
+                    "price": 14,
+                    "quantity": 5
+                },
+                {
+                    "name": "Beverages",
+                    "price": 10,
+                    "quantity": 5
+                }
+            ]
+        },
+        "Fresh and DM Store": {
+            "building": "312 5th Avenue #7",
+            "scene": "ViCo/modules/indoor_scenes/scenes/store-Fresh-DM.json",
+            "type": "store-Fresh-DM",
+            "goods": [
+                {
+                    "name": "Fresh Produce",
+                    "price": 12,
+                    "quantity": 5
+                },
+                {
+                    "name": "Dairy & Meat",
+                    "price": 10,
+                    "quantity": 5
+                }
+            ]
+        },
+        "Fresh and Snacks Store": {
+            "building": "1261 Flushing Avenue",
+            "scene": "ViCo/modules/indoor_scenes/scenes/store-Fresh-Snacks.json",
+            "type": "store-Fresh-Snacks",
+            "goods": [
+                {
+                    "name": "Fresh Produce",
+                    "price": 10,
+                    "quantity": 5
+                },
+                {
+                    "name": "Snacks",
+                    "price": 14,
+                    "quantity": 5
+                }
+            ]
+        },
+        "Snacks and DM Store": {
+            "building": "1261 Broadway Floor 11",
+            "scene": "ViCo/modules/indoor_scenes/scenes/store-Snacks-DM.json",
+            "type": "store-Snacks-DM",
+            "goods": [
+                {
+                    "name": "Dairy & Meat",
+                    "price": 14,
+                    "quantity": 5
+                },
+                {
+                    "name": "Snacks",
+                    "price": 12,
+                    "quantity": 5
+                }
+            ]
+        }
+    },
+    "groups": {
+        "Hospitality Enthusiasts": {
+            "description": "A group of individuals working in the hospitality industry, sharing experiences and tips.",
+            "place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "members": [
+                "Alex Jefferson",
+                "Chad Thompson",
+                "Leonard Park"
+            ],
+            "daily_activity": "discussing hospitality trends from 15:00 to 16:00"
+        },
+        "Tech Innovators": {
+            "description": "A group of tech enthusiasts and professionals discussing the latest in technology and innovation.",
+            "place": "Beverages and Snacks Store",
+            "members": [
+                "Andrew Ng",
+                "James Thompson",
+                "Roth Miller"
+            ],
+            "daily_activity": "brainstorming tech ideas from 14:00 to 15:00"
+        },
+        "Creative Minds": {
+            "description": "A group of artists and creatives sharing their work and collaborating on projects.",
+            "place": "United Hospital Fund-Ny Library",
+            "members": [
+                "Elizabeth Mensah",
+                "Emily Johnson",
+                "Louise Roberts",
+                "Megan Carter"
+            ],
+            "daily_activity": "collaborating on art projects from 16:00 to 17:00"
+        },
+        "Celebrity Circle": {
+            "description": "A group of famous personalities networking and discussing their latest projects.",
+            "place": "Empire State Building",
+            "members": [
+                "Lionel Messi",
+                "Elon Musk",
+                "Emma Watson",
+                "Taylor Swift",
+                "Joe Anderson"
+            ],
+            "daily_activity": "networking and discussing projects from 17:00 to 18:00"
+        }
+    },
+    "dt_agent": 7.2814293518850315,
+    "dt_sim": 15.01177967196467,
+    "dt_chat": 0.1655790999813491,
+    "bicycle_poses": [
+        [
+            -181.25,
+            -92.75,
+            117.70188349696349,
+            -0.0,
+            0.0,
+            1.7681918866447779
+        ],
+        [
+            -183.89191954490116,
+            -88.66707059755386,
+            117.5985898409988,
+            -0.0,
+            0.0,
+            0.0
+        ],
+        [
+            165.91274869118874,
+            -11.341383855489582,
+            120.46648757077449,
+            -0.0,
+            0.0,
+            0.0
+        ],
+        [
+            -142.29746245598838,
+            181.58307600586784,
+            118.17425224210074,
+            -0.0,
+            0.0,
+            0.0
+        ],
+        [
+            -63.75389412525438,
+            -129.56598243593413,
+            118.51010201428376,
+            -0.0,
+            0.0,
+            0.0
+        ],
+        [
+            -210.2510312946871,
+            -237.80320848216277,
+            118.46265172327557,
+            -0.0,
+            0.0,
+            0.0
+        ]
+    ]
+}

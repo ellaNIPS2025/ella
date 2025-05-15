@@ -1,0 +1,215 @@
+{
+    "name": "Chad Thompson",
+    "first_name": "Chad",
+    "last_name": "Thompson",
+    "age": 28,
+    "innate": "stimulation, hedonism, achievement",
+    "learned": "I am a bartender at Hangawi. I love playing the guitar and attending live music events.",
+    "currently": "I am working on creating a signature cocktail for Hangawi.",
+    "lifestyle": "I go to bed around midnight, wake up around 08:00, eat dinner around 18:00",
+    "groups": [
+        {
+            "name": "Hospitality Enthusiasts",
+            "description": "A group of individuals working in the hospitality industry, sharing experiences and tips.",
+            "place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "members": [
+                "Alex Jefferson",
+                "Chad Thompson",
+                "Leonard Park"
+            ],
+            "daily_activity": "discussing hospitality trends from 15:00 to 16:00"
+        }
+    ],
+    "daily_requirement": "",
+    "curr_time": "October 01, 2024, 09:39:42",
+    "start_time": "October 1, 2024, 09:00:00",
+    "living_place": "Chad Thompson's room at Furnished Quarters",
+    "react_freq": 60,
+    "importance_trigger_max": 250,
+    "importance_trigger_curr": 250,
+    "importance_ele_n": 0,
+    "daily_plan": [],
+    "hourly_schedule": [
+        {
+            "type": "sleep",
+            "activity": "Sleep",
+            "place": "Chad Thompson's room at Furnished Quarters",
+            "building": "Tower 31",
+            "start_time": "00:00:00",
+            "end_time": "08:00:00"
+        },
+        {
+            "type": "meal",
+            "activity": "Breakfast",
+            "place": "Gregorys Coffee",
+            "building": "874 6th Avenue",
+            "start_time": "08:00:00",
+            "end_time": "08:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Hangawi",
+            "place": null,
+            "building": null,
+            "start_time": "08:30:00",
+            "end_time": "09:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Hangawi",
+            "place": null,
+            "building": null,
+            "start_time": "09:00:02",
+            "end_time": "09:15:02",
+            "start_place": "Chad Thompson's room at Furnished Quarters",
+            "end_place": "Hangawi"
+        },
+        {
+            "type": "main",
+            "activity": "Work on creating a signature cocktail",
+            "place": "Hangawi",
+            "building": "12 East 32nd Street",
+            "start_time": "09:15:02",
+            "end_time": "12:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Beverages and Snacks Store",
+            "place": null,
+            "building": null,
+            "start_time": "12:00:00",
+            "end_time": "12:15:00",
+            "start_place": "Hangawi",
+            "end_place": "Beverages and Snacks Store"
+        },
+        {
+            "type": "main",
+            "activity": "Purchase ingredients for cocktail experimentation",
+            "place": "Beverages and Snacks Store",
+            "building": "Eventi",
+            "start_time": "12:15:00",
+            "end_time": "12:45:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Osamil",
+            "place": null,
+            "building": null,
+            "start_time": "12:45:00",
+            "end_time": "13:00:00",
+            "start_place": "Beverages and Snacks Store",
+            "end_place": "Osamil"
+        },
+        {
+            "type": "meal",
+            "activity": "Lunch",
+            "place": "Osamil",
+            "building": "5 West 31st Street",
+            "start_time": "13:00:00",
+            "end_time": "13:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Hilton Garden Inn New York/Manhattan-Chelsea",
+            "place": null,
+            "building": null,
+            "start_time": "13:30:00",
+            "end_time": "14:00:00",
+            "start_place": "Osamil",
+            "end_place": "Hilton Garden Inn New York/Manhattan-Chelsea"
+        },
+        {
+            "type": "main",
+            "activity": "Discuss hospitality trends with Hospitality Enthusiasts",
+            "place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "building": "Hilton Garden Inn",
+            "start_time": "14:00:00",
+            "end_time": "16:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Empire State Building",
+            "place": null,
+            "building": null,
+            "start_time": "16:00:00",
+            "end_time": "16:15:00",
+            "start_place": "Hilton Garden Inn New York/Manhattan-Chelsea",
+            "end_place": "United Hospital Fund-Ny Library"
+        },
+        {
+            "type": "main",
+            "activity": "Visit United Hospital Fund-Ny Library for research",
+            "place": "United Hospital Fund-Ny Library",
+            "building": "Empire State Building",
+            "start_time": "16:15:00",
+            "end_time": "17:30:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Hangawi",
+            "place": null,
+            "building": null,
+            "start_time": "17:30:00",
+            "end_time": "18:00:00",
+            "start_place": "United Hospital Fund-Ny Library",
+            "end_place": "Hangawi"
+        },
+        {
+            "type": "meal",
+            "activity": "Dinner",
+            "place": "Hangawi",
+            "building": "12 East 32nd Street",
+            "start_time": "18:00:00",
+            "end_time": "18:30:00"
+        },
+        {
+            "type": "main",
+            "activity": "Evening shift at Hangawi",
+            "place": "Hangawi",
+            "building": "12 East 32nd Street",
+            "start_time": "18:30:00",
+            "end_time": "22:00:00"
+        },
+        {
+            "type": "commute",
+            "activity": "Commute to Big Screen Plaza",
+            "place": null,
+            "building": null,
+            "start_time": "22:00:00",
+            "end_time": "22:15:00",
+            "start_place": "Hangawi",
+            "end_place": "Big Screen Plaza"
+        },
+        {
+            "type": "main",
+            "activity": "Attend live music event",
+            "place": "Big Screen Plaza",
+            "building": "Eventi",
+            "start_time": "22:15:00",
+            "end_time": "23:59:59"
+        }
+    ],
+    "held_objects": [
+        null,
+        null
+    ],
+    "act_address": null,
+    "act_start_time": null,
+    "act_duration": null,
+    "act_description": null,
+    "act_event": "",
+    "chat": null,
+    "chatting_with_buffer": {},
+    "chatting_end_time": null,
+    "working_place": "Hangawi",
+    "commute_plan": [
+        {
+            "goal_place": "Hangawi",
+            "transit_type": "walk"
+        }
+    ],
+    "commute_plan_idx": 1,
+    "chatting_buffer": [],
+    "current_vehicle": null,
+    "current_place": "Hangawi"
+}
